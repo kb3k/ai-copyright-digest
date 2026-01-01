@@ -1,41 +1,7 @@
 ---
 layout: default
+title: AI Copyright Digest
 ---
-
-<style>
-/* Force remove all padding/margins */
-html, body {
-  margin: 0 !important;
-  padding: 0 !important;
-  height: 100%;
-}
-
-body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
-  padding: 10px 20px !important; /* Just a tiny bit of breathing room */
-  box-sizing: border-box;
-}
-
-/* Target GitHub Pages' wrapper divs */
-.wrapper, .container, .page-header, .main-content {
-  padding: 0 !important;
-  margin: 0 !important;
-  max-width: 100% !important;
-}
-
-h1, h2, h3 {
-  margin-top: 0.5em;
-  margin-bottom: 0.3em;
-}
-
-h1:first-of-type {
-  margin-top: 0;
-}
-
-hr {
-  margin: 1em 0;
-}
-</style>
 
 # AI Docket
 
