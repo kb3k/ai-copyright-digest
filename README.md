@@ -1,3 +1,27 @@
+---
+---
+
+<style>
+body {
+  margin: 0 !important;
+  padding: 15px !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+}
+
+h1, h2, h3 {
+  margin-top: 0.5em;
+}
+
+h1:first-of-type {
+  margin-top: 0;
+}
+
+.container {
+  max-width: 100%;
+  padding: 0;
+}
+</style>
+
 # AI Docket
 
 **Last Updated:** 2026-01-01
