@@ -1,24 +1,39 @@
 ---
+layout: default
 ---
 
 <style>
-body {
+/* Force remove all padding/margins */
+html, body {
   margin: 0 !important;
-  padding: 15px !important;
+  padding: 0 !important;
+  height: 100%;
+}
+
+body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+  padding: 10px 20px !important; /* Just a tiny bit of breathing room */
+  box-sizing: border-box;
+}
+
+/* Target GitHub Pages' wrapper divs */
+.wrapper, .container, .page-header, .main-content {
+  padding: 0 !important;
+  margin: 0 !important;
+  max-width: 100% !important;
 }
 
 h1, h2, h3 {
   margin-top: 0.5em;
+  margin-bottom: 0.3em;
 }
 
 h1:first-of-type {
   margin-top: 0;
 }
 
-.container {
-  max-width: 100%;
-  padding: 0;
+hr {
+  margin: 1em 0;
 }
 </style>
 
@@ -152,73 +167,3 @@ If OpenAI succeeds in its fair use defense, it would represent a major legal win
 
 ---
 
-
----
-
-## Previous Entries
-
-# AI Docket
-
-**Last Updated:** 2026-01-01
-
----
-
-## NYT v OpenAI
-
-*Analysis Date: 2026-01-01 13:47*
-*Source: `data/analyses/nyt_v_openai_analysis_20260101_134704.json`*
-
-### Key Legal Issues (5 issues)
-
-#### Copyright defenses and their limits, Precedential implications
-
-- The core question is whether OpenAI's use of The New York Times' articles for training its AI models constitutes fair use under copyright law. OpenAI argues that its use is transformative, while The New York Times contends that it is not, as it reproduces original content without permission. This dispute is central to the case, with significant implications for AI training practices. [1], [2], [3], [5], [10]
-
-#### Discovery/preservation obligations, Privacy concerns
-
-- The scope of discovery in the case, particularly regarding OpenAI's user data and logs, is a contentious point. The New York Times seeks extensive access to ChatGPT logs to support its claims, while OpenAI argues for limitations citing privacy concerns and operational burdens. [15], [19], [20]
-
-#### Economic/business model impacts on creators vs. AI companies
-
-- The economic implications of the lawsuit are significant, particularly regarding potential damages. The New York Times claims billions in damages due to unauthorized use of its content, while OpenAI argues that the economic impact is negligible as the AI outputs do not directly compete with the original articles. [6], [10], [12]
-
-#### Jurisdictional questions
-
-- Jurisdictional questions arise regarding the applicability of U.S. copyright law to OpenAI's operations, especially considering its international user base. The New York Times argues for U.S. jurisdiction, while OpenAI may contend that international laws could apply, complicating enforcement. [3], [5], [17]
-
-#### Privacy concerns, Discovery/preservation obligations
-
-- The implications of the case for data privacy laws, particularly GDPR and CCPA, are significant. OpenAI's compliance with these laws in the context of retaining user data for the lawsuit is under scrutiny, with potential conflicts between legal obligations and the court's orders. [17], [20]
-
-### Possible Outcomes
-
-#### Plaintiff (NYT) wins - OpenAI found liable for copyright infringement
-
-If The New York Times (NYT) wins its case, OpenAI could face liability for copyright infringement, significantly affecting its operational model. The court's decision will likely focus on whether OpenAI's use of NYT articles is transformative, a crucial aspect of fair use analysis [1, 5]. NYT seeks billions in damages, claiming OpenAI undermines its business by reproducing content without permission [3, 10]. This ruling could set a precedent for AI companies regarding training data sourcing, possibly necessitating licensing agreements for copyrighted materials. Additionally, the court may impose strict discovery obligations on OpenAI, raising privacy concerns under GDPR and CCPA [17, 20]. The outcome could prompt AI firms to reassess data governance strategies to avoid litigation, while potentially giving creators more leverage in negotiations, leading to improved compensation models [2, 6].
-
-#### Defendant (OpenAI) wins - Fair use defense successful
-
-If OpenAI succeeds in its fair use defense, it would represent a major legal win for AI companies, confirming that their training methods do not violate copyright law. This outcome hinges on whether AI-generated outputs are deemed transformative, as OpenAI claims its use of NYT articles produces new, non-competitive results [2, 6]. However, such a ruling could worsen economic challenges for content creators by reducing their bargaining power and monetization opportunities [10, 12]. It may also set new industry standards for data sourcing, allowing AI firms to use copyrighted materials without compensation, complicating creator compensation models [5, 8]. Furthermore, the ruling might not resolve ongoing disputes regarding discovery obligations, as OpenAI's adherence to privacy laws like GDPR could still face scrutiny, regardless of the copyright decision [19, 20]. This situation raises important questions about balancing innovation and creator rights in the AI landscape.
-
-### Source Articles (20 articles)
-
-1. ['The New York Times' takes OpenAI to court. ChatGPT's future ... - NPR](https://www.npr.org/2025/01/14/nx-s1-5258952/new-york-times-openai-microsoft) - *Web Search*
-2. [The New York Times v. OpenAI and Microsoft - SMITH HOPEN](https://smithhopen.com/2025/07/17/nyt-v-openai-microsoft-ai-copyright-lawsuit-update-2025/) - *Web Search*
-3. [The New York Times v. OpenAI and Microsoft: A Pivotal Copyright Battle ...](https://www.globallawtoday.com/law/case-law/2025/06/the-new-york-times-v-openai-and-microsoft-a-pivotal-copyright-battle-in-the-ai-era/) - *Web Search*
-4. [Judge explains order for New York Times in OpenAI copyright case](https://www.reuters.com/legal/litigation/judge-explains-order-new-york-times-openai-copyright-case-2025-04-04/) - *Web Search*
-5. [Stolen Stories or Fair Use? The New York Times v. OpenAI and the Limits ...](https://www.culawreview.org/ddc-x-culr-1/nyt-v-openai-and-microsoft) - *Web Search*
-6. [New York Times Sues OpenAI and Microsoft Over Use of Copyrighted Work ...](https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html) - *Web Search*
-7. [Judge allows newspaper copyright lawsuit against OpenAI to proceed](https://apnews.com/article/nyt-openai-copyright-lawsuit-chatgpt-cc19ef2cf3f23343738e892b60d6d7a6) - *Web Search*
-8. [NYT v. OpenAI: The Times's About-Face - Harvard Law Review](https://harvardlawreview.org/blog/2024/04/nyt-v-openai-the-timess-about-face/) - *Web Search*
-9. [NYT copyright lawsuit against OpenAI, Microsoft can advance](https://www.axios.com/2025/04/01/nyt-openai-microsoft-lawsuit-advances) - *Web Search*
-10. [New York Times sues Microsoft and OpenAI for 'billions' - BBC](https://www.bbc.com/news/technology-67826601) - *Web Search*
-11. [Judge calls out OpenAI's "straw man" argument in New York Times ...](https://arstechnica.com/tech-policy/2025/04/judge-doesnt-buy-openai-argument-nyts-own-reporting-weakens-copyright-suit/) - *Web Search*
-12. [New York Times reporter files lawsuit against AI companies](https://www.engadget.com/ai/new-york-times-reporter-files-lawsuit-against-ai-companies-161624268.html) - *Web Search*
-13. [Nelson Mullins - From Copyright Case to AI Data Crisis: How The New ...](https://www.nelsonmullins.com/insights/blogs/corporate-governance-insights/all/from-copyright-case-to-ai-data-crisis-how-the-new-york-times-v-openai-reshapes-companies-data-governance-and-ediscovery-strategy) - *Web Search*
-14. [Reporting the facts about the New York Times' lawsuit - OpenAI](https://openai.com/new-york-times/) - *Web Search*
-15. [OpenAI offers 20 million user chats in ChatGPT lawsuit. NYT wants 120 ...](https://arstechnica.com/tech-policy/2025/08/openai-offers-20-million-user-chats-in-chatgpt-lawsuit-nyt-wants-120-million/) - *Web Search*
-16. [How we're responding to The New York Times' data demands ... - OpenAI](https://openai.com/index/response-to-nyt-data-demands/) - *Web Search*
-17. [Privacy Under Pressure: What the NYT v. OpenAI Teaches Us About Data ...](https://natlawreview.com/article/privacy-under-pressure-what-nyt-v-openai-teaches-us-about-data-governance) - *Web Search*
-18. [Privacy Under Pressure: What the NYT v. OpenAI Teaches Us About Data ...](https://www.dataprivacyandsecurityinsider.com/2025/07/privacy-under-pressure-what-the-nyt-v-openai-teaches-us-about-data-governance/) - *Web Search*
-19. [OpenAI appeals data preservation order in NYT copyright case](https://www.reuters.com/business/media-telecom/openai-appeal-new-york-times-suit-demand-asking-not-delete-any-user-chats-2025-06-06/) - *Web Search*
-20. [OpenAI Court Order Sparks Legal and Privacy Risks for AI Companies](https://kartalegal.com/blog/openai-nyt-court-order-ai-privacy-litigation-risks/) - *Web Search*
