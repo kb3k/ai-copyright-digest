@@ -7,7 +7,7 @@ title: AI Copyright Docket
 
 **Tracking major AI copyright litigation**
 
-*Last Updated: 2026-01-01*
+*Last Updated: 2026-01-02*
 
 This case tracker monitors key U.S. litigation that raises copyright (and copyright adjacent) issues related to the creation and use of generative AI. These issues can have a significant impact across the AI value chain, from content creators to those providing datasets, models, or AI solutions, and further still to the downstream uses of AI solutions (and AI outputs).
 
@@ -18,7 +18,7 @@ This case tracker monitors key U.S. litigation that raises copyright (and copyri
 
 <div class="case-card">
     <h3 class="case-card-title"><a href="cases/bartz-v-anthropic.html">Bartz v Anthropic</a></h3>
-    <p class="case-card-meta">Last analyzed: 2026-01-01</p>
+    <p class="case-card-meta">Last analyzed: 2026-01-02</p>
     <p class="case-card-highlights"><strong>Highlights:</strong> Historic $1.5B settlement • Fair use debate • Transformative use unresolved</p>
     <p class="case-card-summary">No summary available.</p>
     <p><a href="cases/bartz-v-anthropic.html" class="nav-link">Read full analysis →</a></p>
