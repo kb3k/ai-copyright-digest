@@ -20,15 +20,15 @@ This case tracker monitors key U.S. litigation that raises copyright (and copyri
     <h3 class="case-card-title"><a href="cases/bartz-v-anthropic.html">Bartz v Anthropic</a></h3>
     <p class="case-card-meta">Last analyzed: 2026-01-02</p>
     <p class="case-card-highlights"><strong>Highlights:</strong> Historic $1.5B settlement • Fair use debate • Transformative use unresolved</p>
-    <p class="case-card-summary">No summary available.</p>
+    <p class="case-card-summary">A landmark class action lawsuit challenging Anthropic's use of copyrighted materials to train its Claude AI models. The case centers on whether AI training constitutes fair use, with plaintiffs seeking compensation for unauthorized use of their cr...</p>
     <p><a href="cases/bartz-v-anthropic.html" class="nav-link">Read full analysis →</a></p>
 </div>
 
 <div class="case-card">
     <h3 class="case-card-title"><a href="cases/nyt-v-openai.html">NYT v OpenAI</a></h3>
-    <p class="case-card-meta">Last analyzed: 2026-01-01</p>
+    <p class="case-card-meta">Last analyzed: 2026-01-02</p>
     <p class="case-card-highlights"><strong>Highlights:</strong> Billions in damages sought • 120M ChatGPT logs disputed • Privacy vs discovery</p>
-    <p class="case-card-summary">No summary available.</p>
+    <p class="case-card-summary">A high-stakes copyright infringement lawsuit where The New York Times alleges OpenAI and Microsoft used millions of its articles to train ChatGPT without permission. The case involves complex discovery disputes over user data and ChatGPT logs.</p>
     <p><a href="cases/nyt-v-openai.html" class="nav-link">Read full analysis →</a></p>
 </div>
 
