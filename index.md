@@ -16,25 +16,21 @@ This case tracker monitors key U.S. litigation that raises copyright (and copyri
 ## Cases and Their Developments
 
 
-## [Bartz v Anthropic](cases/bartz-v-anthropic.html)
+<div class="case-card">
+    <h3 class="case-card-title"><a href="cases/bartz-v-anthropic.html">Bartz v Anthropic</a></h3>
+    <p class="case-card-meta">Last analyzed: 2026-01-01</p>
+    <p class="case-card-highlights"><strong>Highlights:</strong> Historic $1.5B settlement • Fair use debate • Transformative use unresolved</p>
+    <p class="case-card-summary">No summary available.</p>
+    <p><a href="cases/bartz-v-anthropic.html" class="nav-link">Read full analysis →</a></p>
+</div>
 
-*Last analyzed: 2026-01-01*
-
-No summary available.
-
-[Read full analysis →](cases/bartz-v-anthropic.html)
-
----
-
-## [NYT v OpenAI](cases/nyt-v-openai.html)
-
-*Last analyzed: 2026-01-01*
-
-No summary available.
-
-[Read full analysis →](cases/nyt-v-openai.html)
-
----
+<div class="case-card">
+    <h3 class="case-card-title"><a href="cases/nyt-v-openai.html">NYT v OpenAI</a></h3>
+    <p class="case-card-meta">Last analyzed: 2026-01-01</p>
+    <p class="case-card-highlights"><strong>Highlights:</strong> Billions in damages sought • 120M ChatGPT logs disputed • Privacy vs discovery</p>
+    <p class="case-card-summary">No summary available.</p>
+    <p><a href="cases/nyt-v-openai.html" class="nav-link">Read full analysis →</a></p>
+</div>
 
 
 ---
@@ -48,6 +44,8 @@ This tracker provides automated analysis of major AI copyright cases using:
 - Pro-creator perspective with balanced reporting
 
 Analyses are generated using advanced language models and verified against source materials. All claims are citation-backed.
+
+**Disclaimer:** This tracker is automated and may contain errors or inaccuracies. Information should be verified against primary sources. This is not legal advice.
 
 For questions or feedback, contact Kerry.
 
