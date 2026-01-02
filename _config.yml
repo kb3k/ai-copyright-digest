@@ -1,7 +1,3 @@
-theme: jekyll-theme-minimal
-# Or use no theme for maximum control:
-# theme: null
-
-# Custom settings
+# No theme - using custom layouts
 title: AI Copyright Digest
 description: Tracking major AI copyright litigation
