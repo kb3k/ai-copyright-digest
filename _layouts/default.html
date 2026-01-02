@@ -13,70 +13,95 @@
     
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
-      padding: 15px;
-      line-height: 1.6;
-      color: #333;
-      font-size: 14px;
+      padding: 20px;
+      line-height: 1.7;
+      color: #2c3e50;
+      font-size: 16px;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      max-width: 900px;
+      margin: 0 auto;
+      background: #fff;
     }
     
+    /* Headings */
     h1 { 
-      font-size: 1.8em; 
-      margin-bottom: 0.3em; 
-      color: #2c3e50;
+      font-size: 2.2em; 
+      margin-bottom: 0.4em; 
+      color: #1a252f;
+      font-weight: 700;
+      letter-spacing: -0.02em;
     }
     
     h2 { 
-      font-size: 1.4em; 
-      margin-top: 1.2em; 
-      margin-bottom: 0.4em; 
-      color: #34495e;
+      font-size: 1.6em; 
+      margin-top: 1.8em; 
+      margin-bottom: 0.6em; 
+      color: #2c3e50;
       border-bottom: 2px solid #e0e0e0;
-      padding-bottom: 0.2em;
+      padding-bottom: 0.3em;
+      font-weight: 600;
+      letter-spacing: -0.01em;
     }
     
     h3 { 
-      font-size: 1.2em; 
-      margin-top: 1em; 
-      margin-bottom: 0.3em; 
-      color: #555;
+      font-size: 1.3em; 
+      margin-top: 1.2em; 
+      margin-bottom: 0.5em; 
+      color: #34495e;
+      font-weight: 600;
     }
     
     h4 { 
-      font-size: 1em; 
-      margin-top: 0.8em; 
-      margin-bottom: 0.3em; 
+      font-size: 1.1em; 
+      margin-top: 1em; 
+      margin-bottom: 0.4em; 
       font-weight: 600;
-      color: #666;
+      color: #555;
     }
     
+    /* Text elements */
     p { 
-      margin-bottom: 0.8em; 
+      margin-bottom: 1em;
+      line-height: 1.8;
     }
     
     ul, ol { 
-      margin-left: 1.5em; 
-      margin-bottom: 0.8em; 
+      margin-left: 1.8em; 
+      margin-bottom: 1em;
+      line-height: 1.8;
     }
     
     li {
-      margin-bottom: 0.3em;
+      margin-bottom: 0.5em;
     }
     
     hr { 
-      margin: 1em 0; 
+      margin: 2em 0; 
       border: none; 
       border-top: 1px solid #ddd; 
     }
     
+    /* Links */
     a { 
       color: #3498db; 
       text-decoration: none; 
+      transition: color 0.2s ease;
     }
     
     a:hover { 
+      color: #2980b9;
       text-decoration: underline; 
     }
     
+    .nav-link {
+      display: inline-block;
+      margin-top: 0.5em;
+      font-weight: 500;
+      color: #3498db;
+    }
+    
+    /* Text formatting */
     em {
       font-style: italic;
       color: #666;
@@ -85,6 +110,7 @@
     
     strong {
       font-weight: 600;
+      color: #2c3e50;
     }
     
     code {
@@ -93,6 +119,127 @@
       border-radius: 3px;
       font-family: 'Courier New', monospace;
       font-size: 0.9em;
+    }
+    
+    /* Case card styles for index page */
+    .case-card {
+      background: #f8f9fa;
+      border: 1px solid #e0e0e0;
+      border-radius: 8px;
+      padding: 1.5em;
+      margin-bottom: 1.5em;
+      transition: box-shadow 0.2s ease, transform 0.2s ease;
+    }
+    
+    .case-card:hover {
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+      transform: translateY(-2px);
+    }
+    
+    .case-card-title {
+      margin-top: 0 !important;
+      margin-bottom: 0.4em !important;
+      font-size: 1.4em !important;
+      font-weight: 600;
+    }
+    
+    .case-card-title a {
+      color: #2c3e50;
+      text-decoration: none;
+    }
+    
+    .case-card-title a:hover {
+      color: #3498db;
+    }
+    
+    .case-card-meta {
+      font-size: 0.9em;
+      color: #7f8c8d;
+      margin-bottom: 0.6em;
+      font-style: italic;
+    }
+    
+    .case-card-highlights {
+      background: #fff;
+      border-left: 3px solid #3498db;
+      padding: 0.8em 1em;
+      margin: 1em 0;
+      font-size: 0.95em;
+      border-radius: 4px;
+    }
+    
+    .case-card-highlights strong {
+      color: #2c3e50;
+      font-weight: 600;
+    }
+    
+    .case-card-summary {
+      color: #555;
+      line-height: 1.7;
+      margin-bottom: 0.5em;
+    }
+    
+    /* Back link styling */
+    a[href*="Back"],
+    a[href$=".html"]:first-of-type {
+      display: inline-block;
+      margin-bottom: 1.5em;
+      font-size: 0.95em;
+      color: #7f8c8d;
+      font-weight: 500;
+    }
+    
+    /* Expand/collapse sections */
+    details {
+      margin: 1.5em 0;
+      padding: 1em;
+      background: #f8f9fa;
+      border-radius: 6px;
+      border: 1px solid #e0e0e0;
+    }
+    
+    summary {
+      cursor: pointer;
+      font-weight: 600;
+      color: #2c3e50;
+      padding: 0.5em;
+      user-select: none;
+    }
+    
+    summary:hover {
+      color: #3498db;
+    }
+    
+    /* Blockquote styling */
+    blockquote {
+      border-left: 4px solid #3498db;
+      padding-left: 1.5em;
+      margin: 1.5em 0;
+      color: #555;
+      font-style: italic;
+    }
+    
+    /* Table styling */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5em 0;
+    }
+    
+    th, td {
+      padding: 0.75em;
+      text-align: left;
+      border-bottom: 1px solid #e0e0e0;
+    }
+    
+    th {
+      background: #f8f9fa;
+      font-weight: 600;
+      color: #2c3e50;
+    }
+    
+    tr:hover {
+      background: #f8f9fa;
     }
   </style>
 </head>
