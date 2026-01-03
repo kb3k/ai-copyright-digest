@@ -18,17 +18,7 @@ A high-stakes copyright infringement lawsuit where The New York Times alleges Op
 
 <div class="whats-next">
     <h3>What's Next</h3>
-    <div class="whats-next-content">
-        <div class="whats-next-from-articles">
-            <h4>From Articles</h4>
-            <p>No specific next steps mentioned in articles.</p>
-        </div>
-
-        <div class="whats-next-courtlistener">
-            <h4>CourtListener</h4>
-            <p>Case status information not available. This may be due to missing CourtListener API key or case not found in database.</p>
-        </div>
-    </div>
+    <p>Discovery ongoing.</p>
 </div>
 
 
@@ -40,27 +30,7 @@ A high-stakes copyright infringement lawsuit where The New York Times alleges Op
 <summary><strong>Copyright defenses and their limits, Precedential implications</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The core question is whether OpenAI's use of The New York Times' articles to train its AI models constitutes copyright infringement or falls under the fair use doctrine. The New York Times argues that the use is not transformative and harms its market, while OpenAI may argue that the use is transformative and thus permissible under fair use. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a>, <a href="#article-3" class="citation">[3]</a>, <a href="#article-4" class="citation">[4]</a>, <a href="#article-10" class="citation">[10]</a></p>
-    
-</div>
-
-</details>
-
-<details class="legal-issue unresolved">
-<summary><strong>Copyright defenses and their limits, Economic/business model impacts on creators vs. AI companies</strong></summary>
-
-<div class="legal-issue-content">
-    <p>The New York Times claims that OpenAI and Microsoft used millions of its copyrighted articles without permission, which raises questions about the scope of copyright protections in the digital age and the obligations of AI companies regarding data sourcing. <a href="#article-3" class="citation">[3]</a>, <a href="#article-5" class="citation">[5]</a>, <a href="#article-16" class="citation">[16]</a></p>
-    
-</div>
-
-</details>
-
-<details class="legal-issue unresolved">
-<summary><strong>Precedential implications, Economic/business model impacts on creators vs. AI companies</strong></summary>
-
-<div class="legal-issue-content">
-    <p>The implications of this case on the broader AI and media landscape are significant, particularly regarding how copyright law will adapt to AI technologies. The outcome could set a precedent for future litigation involving AI training data and copyright. <a href="#article-2" class="citation">[2]</a>, <a href="#article-6" class="citation">[6]</a>, <a href="#article-7" class="citation">[7]</a></p>
+    <p>The core question is whether OpenAI's use of The New York Times' articles to train its AI models constitutes fair use under copyright law. The Times argues that this use is not transformative and harms its market, while OpenAI contends that the use is transformative and thus qualifies for fair use. This disagreement is central to the case. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a>, <a href="#article-3" class="citation">[3]</a>, <a href="#article-4" class="citation">[4]</a>, <a href="#article-10" class="citation">[10]</a></p>
     
 </div>
 
@@ -70,7 +40,27 @@ A high-stakes copyright infringement lawsuit where The New York Times alleges Op
 <summary><strong>Discovery/preservation obligations</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The discovery obligations regarding data retention and the scope of discovery are contentious, particularly concerning how much data OpenAI must preserve and disclose in relation to the lawsuit. The New York Times seeks extensive data retention, which OpenAI argues is an overreach. <a href="#article-3" class="citation">[3]</a>, <a href="#article-12" class="citation">[12]</a>, <a href="#article-18" class="citation">[18]</a></p>
+    <p>The scope of discovery regarding the data used by OpenAI to train its models is disputed. The New York Times seeks extensive data retention and access to OpenAI's training datasets, while OpenAI argues that such demands are overreaching and burdensome. <a href="#article-3" class="citation">[3]</a>, <a href="#article-5" class="citation">[5]</a>, <a href="#article-12" class="citation">[12]</a></p>
+    
+</div>
+
+</details>
+
+<details class="legal-issue unresolved">
+<summary><strong>Economic/business model impacts on creators vs. AI companies</strong></summary>
+
+<div class="legal-issue-content">
+    <p>The economic implications of the lawsuit for both The New York Times and OpenAI are significant. The Times claims that OpenAI's actions threaten its business model, while OpenAI argues that the lawsuit could stifle innovation in AI. The financial stakes and potential licensing requirements remain unclear. <a href="#article-2" class="citation">[2]</a>, <a href="#article-4" class="citation">[4]</a>, <a href="#article-19" class="citation">[19]</a></p>
+    
+</div>
+
+</details>
+
+<details class="legal-issue unresolved">
+<summary><strong>Jurisdictional questions, Precedential implications</strong></summary>
+
+<div class="legal-issue-content">
+    <p>Jurisdictional questions arise regarding the applicability of international copyright law and the enforcement of U.S. copyright laws against foreign entities involved in AI development. The case could set precedents for how international copyright issues are handled in the context of AI. <a href="#article-1" class="citation">[1]</a>, <a href="#article-6" class="citation">[6]</a>, <a href="#article-18" class="citation">[18]</a></p>
     
 </div>
 
@@ -80,17 +70,7 @@ A high-stakes copyright infringement lawsuit where The New York Times alleges Op
 <summary><strong>Privacy concerns</strong></summary>
 
 <div class="legal-issue-content">
-    <p>Privacy concerns arise regarding user data and how it may be affected by the lawsuit, particularly in terms of compliance with laws like GDPR and CCPA. The implications of data usage in AI training could lead to broader privacy law discussions. <a href="#article-2" class="citation">[2]</a>, <a href="#article-4" class="citation">[4]</a>, <a href="#article-8" class="citation">[8]</a></p>
-    
-</div>
-
-</details>
-
-<details class="legal-issue unresolved">
-<summary><strong>Jurisdictional questions</strong></summary>
-
-<div class="legal-issue-content">
-    <p>Jurisdictional questions may arise regarding the enforcement of copyright laws across borders, especially since OpenAI operates internationally. The choice of law and forum selection could significantly impact the case's outcome. <a href="#article-1" class="citation">[1]</a>, <a href="#article-5" class="citation">[5]</a>, <a href="#article-18" class="citation">[18]</a></p>
+    <p>Privacy concerns related to user data and compliance with laws such as GDPR and CCPA are raised, particularly regarding how user interactions with AI models like ChatGPT may involve the processing of personal data without adequate consent. <a href="#article-2" class="citation">[2]</a>, <a href="#article-8" class="citation">[8]</a>, <a href="#article-12" class="citation">[12]</a></p>
     
 </div>
 
@@ -104,14 +84,14 @@ A high-stakes copyright infringement lawsuit where The New York Times alleges Op
 <details class="outcome-details">
 <summary><strong>Plaintiff (NYT) wins - OpenAI found liable for copyright infringement</strong></summary>
 <div class="outcome-content">
-    If The New York Times (NYT) wins its lawsuit against OpenAI, it could set a crucial precedent for copyright infringement in AI training. The court may determine that OpenAI's use of NYT articles is not transformative and harms the newspaper's market by diverting users from its subscription services [1, 5]. This could result in significant damages, potentially in the billions, as NYT seeks compensation for economic harm from unauthorized content use [3, 7]. OpenAI might also face injunctions limiting its use of copyrighted materials, fundamentally changing its operational model [2, 4]. Furthermore, the ruling could impose extensive discovery obligations on OpenAI, raising privacy concerns under GDPR and CCPA [6, 8]. Ultimately, this case could redefine the balance of power between content creators and AI companies, highlighting the need for fair compensation and clearer data governance standards [2, 6].
+    If The New York Times (NYT) wins its lawsuit against OpenAI, it could set a crucial precedent on fair use limits in AI training. The court may determine that OpenAI's use of NYT articles was not transformative and harmed the market for its content, leading to significant damages claims [1, 2]. This could result in OpenAI facing millions in damages, threatening its financial viability [3, 5]. The court might also impose strict discovery obligations on OpenAI, requiring detailed disclosures of its training datasets, influencing future AI litigation on data governance and creator compensation [6, 12]. Furthermore, the ruling could raise questions about creator compensation in the digital age and user privacy under laws like GDPR and CCPA [2, 8]. Overall, this case underscores the tension between AI innovation and content creator rights, potentially reshaping industry standards for data sourcing and usage.
 </div>
 </details>
 
 <details class="outcome-details">
 <summary><strong>Defendant (OpenAI) wins - Fair use defense successful</strong></summary>
 <div class="outcome-content">
-    If OpenAI successfully argues that its use of NYT articles constitutes fair use, it would significantly impact copyright law and AI technology. OpenAI may claim its training processes transform original works into new, non-copyrightable outputs, a point of contention [2, 8]. This ruling could allow OpenAI to maintain its current practices, potentially avoiding billions in damages [3, 5]. However, it would not address broader concerns about creator compensation and the ethical use of copyrighted materials for profit [4, 6]. Critics warn that a win for OpenAI could weaken content creators' bargaining power, devaluing original works and jeopardizing journalism's economic viability [1, 7]. Additionally, unresolved issues regarding creator compensation and user privacy under GDPR and CCPA would remain, as the court's decision would not tackle these critical matters [2, 6].
+    If OpenAI successfully argues that its use of NYT articles is fair use, it could set a legal precedent encouraging other AI companies to use copyrighted materials without permission. OpenAI's defense claims its training process is transformative, generating new outputs rather than reproducing original works verbatim [2, 4]. A favorable ruling could lead to case dismissal, allowing OpenAI to operate without significant damages or changes [3, 5]. However, this victory might undermine creator rights, reducing their bargaining power and complicating digital content monetization [6, 10]. Additionally, unresolved legal questions about the commercial nature of AI training and its fair use implications could impact future cases and the broader copyright landscape [1, 8].
 </div>
 </details>
 
