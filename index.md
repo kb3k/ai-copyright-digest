@@ -7,7 +7,7 @@ title: AI Copyright Docket
 
 **Tracking major AI copyright litigation**
 
-*Last Updated: January 02, 2026*
+*Last Updated: January 03, 2026*
 
 This case tracker monitors key U.S. litigation that raises copyright (and copyright adjacent) issues related to the creation and use of generative AI. These issues can have a significant impact across the AI value chain, from content creators to those providing datasets, models, or AI solutions, and further still to the downstream uses of AI solutions (and AI outputs).
 
@@ -23,37 +23,73 @@ This case tracker monitors key U.S. litigation that raises copyright (and copyri
 
 <div class="category-content">
 
-<div class="case-card">
-    <h3 class="case-card-title"><a href="cases/thomson-reuters-v-ross-intelligence.html">Thomson Reuters v. Ross Intelligence</a></h3>
-    <p class="case-card-meta">Last analyzed: January 02, 2026</p>
-    <p class="case-card-highlights"><strong>Highlights:</strong> Database scraping case • Settled 2024 • Westlaw competitor eliminated</p>
-    <p class="case-card-summary">This case involves key legal issues related to AI copyright and training data usage.</p>
-    <p><a href="cases/thomson-reuters-v-ross-intelligence.html" class="nav-link">Read full analysis →</a></p>
-</div>
-
-<div class="case-card">
-    <h3 class="case-card-title"><a href="cases/authors-guild-v-openai.html">Authors Guild v. OpenAI</a></h3>
-    <p class="case-card-meta">Last analyzed: January 02, 2026</p>
-    <p class="case-card-highlights"><strong>Highlights:</strong> Industry-wide author coalition • Fair use test case • Systematic book copying alleged</p>
-    <p class="case-card-summary">This case involves key legal issues related to AI copyright and training data usage.</p>
-    <p><a href="cases/authors-guild-v-openai.html" class="nav-link">Read full analysis →</a></p>
-</div>
-
-<div class="case-card">
-    <h3 class="case-card-title"><a href="cases/bartz-v-anthropic.html">Bartz v Anthropic</a></h3>
-    <p class="case-card-meta">Last analyzed: January 02, 2026</p>
-    <p class="case-card-highlights"><strong>Highlights:</strong> Pirated book datasets alleged • Willful infringement claim • Discovery on data sources</p>
-    <p class="case-card-summary">A landmark class action lawsuit challenging Anthropic's use of copyrighted materials to train its Claude AI models. The case centers on whether AI training constitutes fair use, with plaintiffs seeking compensation for unauthorized use of their cr...</p>
-    <p><a href="cases/bartz-v-anthropic.html" class="nav-link">Read full analysis →</a></p>
-</div>
-
-<div class="case-card">
-    <h3 class="case-card-title"><a href="cases/nyt-v-openai.html">NYT v OpenAI</a></h3>
-    <p class="case-card-meta">Last analyzed: January 02, 2026</p>
+<details class="case-card">
+<summary class="case-card-summary-header">
+    <div class="case-card-summary-content">
+        <h3 class="case-card-title">NYT v OpenAI</h3>
+        <div class="case-card-summary-meta">
+            <span class="case-card-date">Last analyzed: January 03, 2026</span>
+            
+        </div>
+    </div>
+</summary>
+<div class="case-card-details">
     <p class="case-card-highlights"><strong>Highlights:</strong> Billions in damages sought • 120M ChatGPT logs disputed • Privacy vs discovery</p>
-    <p class="case-card-summary">A high-stakes copyright infringement lawsuit where The New York Times alleges OpenAI and Microsoft used millions of its articles to train ChatGPT without permission. The case involves complex discovery disputes over user data and ChatGPT logs.</p>
-    <p><a href="cases/nyt-v-openai.html" class="nav-link">Read full analysis →</a></p>
+    <p class="case-card-summary-text">A high-stakes copyright infringement lawsuit where The New York Times alleges OpenAI and Microsoft used millions of its articles to train ChatGPT without permission. The case involves complex discovery disputes over user data and ChatGPT logs.</p>
+    <p class="case-card-link"><a href="cases/nyt-v-openai.html" class="nav-link">Read full analysis →</a></p>
 </div>
+</details>
+
+<details class="case-card">
+<summary class="case-card-summary-header">
+    <div class="case-card-summary-content">
+        <h3 class="case-card-title">Thomson Reuters v. Ross Intelligence</h3>
+        <div class="case-card-summary-meta">
+            <span class="case-card-date">Last analyzed: January 02, 2026</span>
+            
+        </div>
+    </div>
+</summary>
+<div class="case-card-details">
+    <p class="case-card-highlights"><strong>Highlights:</strong> Database scraping case • Settled 2024 • Westlaw competitor eliminated</p>
+    <p class="case-card-summary-text">This case involves key legal issues related to AI copyright and training data usage.</p>
+    <p class="case-card-link"><a href="cases/thomson-reuters-v-ross-intelligence.html" class="nav-link">Read full analysis →</a></p>
+</div>
+</details>
+
+<details class="case-card">
+<summary class="case-card-summary-header">
+    <div class="case-card-summary-content">
+        <h3 class="case-card-title">Authors Guild v. OpenAI</h3>
+        <div class="case-card-summary-meta">
+            <span class="case-card-date">Last analyzed: January 02, 2026</span>
+            
+        </div>
+    </div>
+</summary>
+<div class="case-card-details">
+    <p class="case-card-highlights"><strong>Highlights:</strong> Industry-wide author coalition • Fair use test case • Systematic book copying alleged</p>
+    <p class="case-card-summary-text">This case involves key legal issues related to AI copyright and training data usage.</p>
+    <p class="case-card-link"><a href="cases/authors-guild-v-openai.html" class="nav-link">Read full analysis →</a></p>
+</div>
+</details>
+
+<details class="case-card">
+<summary class="case-card-summary-header">
+    <div class="case-card-summary-content">
+        <h3 class="case-card-title">Bartz v Anthropic</h3>
+        <div class="case-card-summary-meta">
+            <span class="case-card-date">Last analyzed: January 02, 2026</span>
+            
+        </div>
+    </div>
+</summary>
+<div class="case-card-details">
+    <p class="case-card-highlights"><strong>Highlights:</strong> Pirated book datasets alleged • Willful infringement claim • Discovery on data sources</p>
+    <p class="case-card-summary-text">A landmark class action lawsuit challenging Anthropic's use of copyrighted materials to train its Claude AI models. The case centers on whether AI training constitutes fair use, with plaintiffs seeking compensation for unauthorized use of their cr...</p>
+    <p class="case-card-link"><a href="cases/bartz-v-anthropic.html" class="nav-link">Read full analysis →</a></p>
+</div>
+</details>
 
 </div>
 </details>
@@ -65,29 +101,56 @@ This case tracker monitors key U.S. litigation that raises copyright (and copyri
 
 <div class="category-content">
 
-<div class="case-card">
-    <h3 class="case-card-title"><a href="cases/major-labels-v-suno-and-udio.html">Major labels v. Suno and Udio</a></h3>
-    <p class="case-card-meta">Last analyzed: January 02, 2026</p>
-    <p class="case-card-highlights"><strong>Highlights:</strong> First AI music generation suits • Sound recording infringement • Fair use for music creation disputed</p>
-    <p class="case-card-summary">This case involves key legal issues related to AI copyright and training data usage.</p>
-    <p><a href="cases/major-labels-v-suno-and-udio.html" class="nav-link">Read full analysis →</a></p>
-</div>
-
-<div class="case-card">
-    <h3 class="case-card-title"><a href="cases/universal-music-group-v-anthropic.html">Universal Music Group v. Anthropic</a></h3>
-    <p class="case-card-meta">Last analyzed: January 02, 2026</p>
-    <p class="case-card-highlights"><strong>Highlights:</strong> Consolidated with Concord • Major label enforcement • Statutory damages at stake</p>
-    <p class="case-card-summary">This case involves key legal issues related to AI copyright and training data usage.</p>
-    <p><a href="cases/universal-music-group-v-anthropic.html" class="nav-link">Read full analysis →</a></p>
-</div>
-
-<div class="case-card">
-    <h3 class="case-card-title"><a href="cases/concord-music-group-v-anthropic.html">Concord Music Group v. Anthropic</a></h3>
-    <p class="case-card-meta">Last analyzed: January 02, 2026</p>
+<details class="case-card">
+<summary class="case-card-summary-header">
+    <div class="case-card-summary-content">
+        <h3 class="case-card-title">Concord Music Group v. Anthropic</h3>
+        <div class="case-card-summary-meta">
+            <span class="case-card-date">Last analyzed: January 03, 2026</span>
+            
+        </div>
+    </div>
+</summary>
+<div class="case-card-details">
     <p class="case-card-highlights"><strong>Highlights:</strong> Lyric reproduction claims • 5M chat logs ordered produced • Output-based infringement theory</p>
-    <p class="case-card-summary">This case involves key legal issues related to AI copyright and training data usage.</p>
-    <p><a href="cases/concord-music-group-v-anthropic.html" class="nav-link">Read full analysis →</a></p>
+    <p class="case-card-summary-text">This case involves key legal issues related to AI copyright and training data usage.</p>
+    <p class="case-card-link"><a href="cases/concord-music-group-v-anthropic.html" class="nav-link">Read full analysis →</a></p>
 </div>
+</details>
+
+<details class="case-card">
+<summary class="case-card-summary-header">
+    <div class="case-card-summary-content">
+        <h3 class="case-card-title">Major labels v. Suno and Udio</h3>
+        <div class="case-card-summary-meta">
+            <span class="case-card-date">Last analyzed: January 02, 2026</span>
+            
+        </div>
+    </div>
+</summary>
+<div class="case-card-details">
+    <p class="case-card-highlights"><strong>Highlights:</strong> First AI music generation suits • Sound recording infringement • Fair use for music creation disputed</p>
+    <p class="case-card-summary-text">This case involves key legal issues related to AI copyright and training data usage.</p>
+    <p class="case-card-link"><a href="cases/major-labels-v-suno-and-udio.html" class="nav-link">Read full analysis →</a></p>
+</div>
+</details>
+
+<details class="case-card">
+<summary class="case-card-summary-header">
+    <div class="case-card-summary-content">
+        <h3 class="case-card-title">Universal Music Group v. Anthropic</h3>
+        <div class="case-card-summary-meta">
+            <span class="case-card-date">Last analyzed: January 02, 2026</span>
+            
+        </div>
+    </div>
+</summary>
+<div class="case-card-details">
+    <p class="case-card-highlights"><strong>Highlights:</strong> Consolidated with Concord • Major label enforcement • Statutory damages at stake</p>
+    <p class="case-card-summary-text">This case involves key legal issues related to AI copyright and training data usage.</p>
+    <p class="case-card-link"><a href="cases/universal-music-group-v-anthropic.html" class="nav-link">Read full analysis →</a></p>
+</div>
+</details>
 
 </div>
 </details>
@@ -99,21 +162,39 @@ This case tracker monitors key U.S. litigation that raises copyright (and copyri
 
 <div class="category-content">
 
-<div class="case-card">
-    <h3 class="case-card-title"><a href="cases/class-action-against-stability-ai,-midjourney,-deviantart.html">Class action against Stability AI, Midjourney, DeviantArt</a></h3>
-    <p class="case-card-meta">Last analyzed: January 02, 2026</p>
+<details class="case-card">
+<summary class="case-card-summary-header">
+    <div class="case-card-summary-content">
+        <h3 class="case-card-title">Class action against Stability AI, Midjourney, DeviantArt</h3>
+        <div class="case-card-summary-meta">
+            <span class="case-card-date">Last analyzed: January 02, 2026</span>
+            
+        </div>
+    </div>
+</summary>
+<div class="case-card-details">
     <p class="case-card-highlights"><strong>Highlights:</strong> Billions of images scraped • Style mimicry claims • Artist compensation sought</p>
-    <p class="case-card-summary">This case involves key legal issues related to AI copyright and training data usage.</p>
-    <p><a href="cases/class-action-against-stability-ai,-midjourney,-deviantart.html" class="nav-link">Read full analysis →</a></p>
+    <p class="case-card-summary-text">This case involves key legal issues related to AI copyright and training data usage.</p>
+    <p class="case-card-link"><a href="cases/class-action-against-stability-ai,-midjourney,-deviantart.html" class="nav-link">Read full analysis →</a></p>
 </div>
+</details>
 
-<div class="case-card">
-    <h3 class="case-card-title"><a href="cases/getty-images-v-stability-ai.html">Getty Images v. Stability AI</a></h3>
-    <p class="case-card-meta">Last analyzed: January 02, 2026</p>
+<details class="case-card">
+<summary class="case-card-summary-header">
+    <div class="case-card-summary-content">
+        <h3 class="case-card-title">Getty Images v. Stability AI</h3>
+        <div class="case-card-summary-meta">
+            <span class="case-card-date">Last analyzed: January 02, 2026</span>
+            
+        </div>
+    </div>
+</summary>
+<div class="case-card-details">
     <p class="case-card-highlights"><strong>Highlights:</strong> Watermark evidence • Database rights claim • UK and US parallel cases</p>
-    <p class="case-card-summary">This case involves key legal issues related to AI copyright and training data usage.</p>
-    <p><a href="cases/getty-images-v-stability-ai.html" class="nav-link">Read full analysis →</a></p>
+    <p class="case-card-summary-text">This case involves key legal issues related to AI copyright and training data usage.</p>
+    <p class="case-card-link"><a href="cases/getty-images-v-stability-ai.html" class="nav-link">Read full analysis →</a></p>
 </div>
+</details>
 
 </div>
 </details>
@@ -125,13 +206,22 @@ This case tracker monitors key U.S. litigation that raises copyright (and copyri
 
 <div class="category-content">
 
-<div class="case-card">
-    <h3 class="case-card-title"><a href="cases/github-copilot-class-action-(doe-v-github).html">GitHub Copilot class action (Doe v. GitHub)</a></h3>
-    <p class="case-card-meta">Last analyzed: January 02, 2026</p>
+<details class="case-card">
+<summary class="case-card-summary-header">
+    <div class="case-card-summary-content">
+        <h3 class="case-card-title">GitHub Copilot class action (Doe v. GitHub)</h3>
+        <div class="case-card-summary-meta">
+            <span class="case-card-date">Last analyzed: January 02, 2026</span>
+            
+        </div>
+    </div>
+</summary>
+<div class="case-card-details">
     <p class="case-card-highlights"><strong>Highlights:</strong> Open source license violations • Code suggestion infringement • Developer attribution rights</p>
-    <p class="case-card-summary">This case involves key legal issues related to AI copyright and training data usage.</p>
-    <p><a href="cases/github-copilot-class-action-(doe-v-github).html" class="nav-link">Read full analysis →</a></p>
+    <p class="case-card-summary-text">This case involves key legal issues related to AI copyright and training data usage.</p>
+    <p class="case-card-link"><a href="cases/github-copilot-class-action-(doe-v-github).html" class="nav-link">Read full analysis →</a></p>
 </div>
+</details>
 
 </div>
 </details>
