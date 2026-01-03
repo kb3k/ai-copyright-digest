@@ -18,8 +18,7 @@ This case tracker monitors key U.S. litigation that raises copyright (and copyri
 
 <details class="category-section">
 <summary class="category-header">
-    <h2>Text/Publishing</h2>
-    <span class="category-count">(4 cases)</span>
+    <h3 class="category-title">Text/Publishing <span class="category-count">(4 cases)</span></h3>
 </summary>
 
 <div class="category-content">
@@ -61,8 +60,7 @@ This case tracker monitors key U.S. litigation that raises copyright (and copyri
 
 <details class="category-section">
 <summary class="category-header">
-    <h2>Music/Audio</h2>
-    <span class="category-count">(3 cases)</span>
+    <h3 class="category-title">Music/Audio <span class="category-count">(3 cases)</span></h3>
 </summary>
 
 <div class="category-content">
@@ -96,8 +94,7 @@ This case tracker monitors key U.S. litigation that raises copyright (and copyri
 
 <details class="category-section">
 <summary class="category-header">
-    <h2>Visual Arts</h2>
-    <span class="category-count">(2 cases)</span>
+    <h3 class="category-title">Visual Arts <span class="category-count">(2 cases)</span></h3>
 </summary>
 
 <div class="category-content">
@@ -123,8 +120,7 @@ This case tracker monitors key U.S. litigation that raises copyright (and copyri
 
 <details class="category-section">
 <summary class="category-header">
-    <h2>Code</h2>
-    <span class="category-count">(1 case)</span>
+    <h3 class="category-title">Code <span class="category-count">(1 case)</span></h3>
 </summary>
 
 <div class="category-content">

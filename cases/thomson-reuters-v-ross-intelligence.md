@@ -30,17 +30,17 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Copyright defenses and their limits, Precedential implications</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The core question is whether Ross Intelligence's use of Thomson Reuters' Westlaw headnotes constitutes fair use under copyright law. The court has ruled in favor of Thomson Reuters on this issue, but Ross Intelligence argues that their use is transformative and does not harm the market for Westlaw's products. This disagreement over the nature of fair use remains a critical point of contention. <a href="#article-12" class="citation">[12]</a>, <a href="#article-14" class="citation">[14]</a>, <a href="#article-19" class="citation">[19]</a></p>
+    <p>The core question is whether the use of Thomson Reuters' Westlaw headnotes by Ross Intelligence constitutes fair use under copyright law. The court has ruled in favor of Thomson Reuters on this issue, but Ross Intelligence is appealing the decision, arguing that their use was transformative and did not harm the market for Westlaw's products. <a href="#article-12" class="citation">[12]</a>, <a href="#article-14" class="citation">[14]</a>, <a href="#article-19" class="citation">[19]</a></p>
     
 </div>
 
 </details>
 
 <details class="legal-issue unresolved">
-<summary><strong>Copyright defenses and their limits, Related legal theories</strong></summary>
+<summary><strong>Copyright defenses and their limits</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The question of whether the court's ruling on the originality of the Westlaw headnotes is sufficient to establish copyright infringement. Ross Intelligence contends that the headnotes lack originality, which is a key element of copyright protection. The court's decision to grant summary judgment on this point has been contested by Ross. <a href="#article-19" class="citation">[19]</a>, <a href="#article-20" class="citation">[20]</a></p>
+    <p>The question of whether Ross Intelligence's AI training methods can be classified as transformative use remains disputed. The court's ruling suggests it is not, but Ross contends that their AI's outputs are sufficiently different from the original works. <a href="#article-16" class="citation">[16]</a>, <a href="#article-19" class="citation">[19]</a></p>
     
 </div>
 
@@ -50,27 +50,27 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Precedential implications, Economic/business model impacts on creators vs. AI companies</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The implications of the ruling for the broader AI industry, particularly regarding how courts may evaluate fair use defenses for AI training data. The case could set a precedent for future AI-related copyright disputes, but the exact impact remains uncertain as the appeal process unfolds. <a href="#article-17" class="citation">[17]</a>, <a href="#article-18" class="citation">[18]</a></p>
+    <p>The implications of the ruling for the broader AI industry, particularly regarding how courts may evaluate fair use defenses for AI training data, are still unclear. The case could set a precedent that affects future AI-related copyright litigation. <a href="#article-17" class="citation">[17]</a>, <a href="#article-18" class="citation">[18]</a></p>
     
 </div>
 
 </details>
 
 <details class="legal-issue unresolved">
-<summary><strong>Copyright defenses and their limits, Economic/business model impacts on creators vs. AI companies</strong></summary>
+<summary><strong>Jurisdictional questions</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The potential for economic harm to Thomson Reuters due to Ross Intelligence's use of its proprietary content. The court's ruling suggests that there is a likelihood of market harm, but Ross argues that its product does not compete directly with Westlaw in a way that would cause significant economic damage. <a href="#article-14" class="citation">[14]</a>, <a href="#article-16" class="citation">[16]</a></p>
+    <p>The jurisdictional questions surrounding the enforcement of copyright laws in the context of AI technologies, particularly in cross-border scenarios, are not fully resolved. The case raises questions about how international copyright law applies to AI-generated content. <a href="#article-15" class="citation">[15]</a>, <a href="#article-18" class="citation">[18]</a></p>
     
 </div>
 
 </details>
 
 <details class="legal-issue unresolved">
-<summary><strong>Jurisdictional questions, Precedential implications</strong></summary>
+<summary><strong>Economic/business model impacts on creators vs. AI companies</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The jurisdictional questions surrounding the enforcement of copyright laws in the context of AI technologies. The case raises issues about how traditional copyright principles apply to new technologies and whether existing laws adequately protect against unauthorized use in the AI sector. <a href="#article-18" class="citation">[18]</a>, <a href="#article-19" class="citation">[19]</a></p>
+    <p>The economic impact of the ruling on both Thomson Reuters and Ross Intelligence, particularly regarding licensing requirements and operational costs for AI companies, remains a significant concern. The case could influence how AI companies approach licensing and content use in the future. <a href="#article-12" class="citation">[12]</a>, <a href="#article-17" class="citation">[17]</a></p>
     
 </div>
 
@@ -84,14 +84,14 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <details class="outcome-details">
 <summary><strong>Plaintiff (Thomson Reuters) wins</strong></summary>
 <div class="outcome-content">
-    If Thomson Reuters wins, the court's ruling on the originality of Westlaw's headnotes would affirm their copyrightability, potentially deterring AI companies from using proprietary legal content without permission [19]. This could result in significant damages for Ross Intelligence, possibly in the millions, as Thomson Reuters may seek compensation for lost revenue and market share [12]. The ruling could also force Ross to change its AI training practices to avoid future copyright infringement, increasing operational costs [14]. Moreover, this case could set a precedent for copyright law's application to AI training data, particularly regarding the transformative use doctrine [18]. Economically, content creators might gain leverage in negotiations with AI companies, leading to new licensing agreements for fair compensation [16]. However, the ruling leaves unresolved questions about how fair use will be assessed in future AI-related cases, creating ongoing uncertainty in the industry [19].
+    If Thomson Reuters wins, the court's ruling would suggest that Ross Intelligence's use of Westlaw's headnotes does not meet the fair use standard, particularly regarding transformative use. This could result in significant financial consequences for Ross, with potential damages reaching millions due to the commercial nature of their AI product [12, 19]. Ross may also face injunctions limiting their use of similar data, increasing operational costs and necessitating new licensing agreements [16, 19]. The ruling could set a precedent that discourages AI companies from using copyrighted materials without permission, affecting their data sourcing and compliance strategies [18]. However, questions remain about whether the court's view of transformative use adequately considers the unique aspects of AI training methods and outputs, which some argue differ fundamentally from original works [14, 19]. This case may also shape future fair use assessments in AI-related copyright litigation, balancing creator compensation and AI innovation [17].
 </div>
 </details>
 
 <details class="outcome-details">
 <summary><strong>Defendant (Ross Intelligence) wins</strong></summary>
 <div class="outcome-content">
-    If Ross Intelligence wins, it would likely argue that its use of Westlaw's headnotes is transformative and does not harm Thomson Reuters' market [19]. This outcome could significantly impact the AI industry by validating the use of copyrighted materials for AI training under certain conditions, potentially encouraging other AI companies to follow suit without fear of litigation [18]. However, it may also economically harm Thomson Reuters, risking market share and revenue as AI tools become more competitive without licensing fees [16]. The ruling would leave unresolved issues regarding fair use in AI, particularly concerning the commercial nature of such use [19]. Additionally, the implications for data governance and compliance with copyright laws would remain unclear, as the case does not address how existing laws apply to new technologies [18].
+    If Ross Intelligence wins, it would mark a significant victory for AI companies, potentially classifying their training methods as transformative use under copyright law. This outcome could relieve Ross from financial burdens, allowing continued use of Westlaw's headnotes without fear of substantial damages [20]. However, it raises concerns for content creators like Thomson Reuters, as it may weaken their control over proprietary content and hinder monetization efforts [19]. The ruling could set a precedent encouraging other AI firms to adopt similar practices, leading to increased copyright infringement claims against AI developers [18]. Unresolved legal questions remain regarding the impact of commercial use on fair use defenses and how courts will address AI-generated outputs resembling original works [16, 19]. Additionally, this case may prompt a reevaluation of data governance and compliance standards in the AI industry, particularly concerning user privacy and data sourcing [17].
 </div>
 </details>
 

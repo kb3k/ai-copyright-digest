@@ -30,7 +30,7 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Copyright defenses and their limits, Precedential implications</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The core question is whether AI training constitutes transformative use under the fair use doctrine. Concord Music Group argues that Anthropic's use of their music for AI training does not transform the original works, while Anthropic contends that the outputs are sufficiently different to qualify as transformative. This dispute is central to the case and remains unresolved. <a href="#article-1" class="citation">[1]</a>, <a href="#article-6" class="citation">[6]</a>, <a href="#article-14" class="citation">[14]</a></p>
+    <p>The core question is whether AI training constitutes transformative use under the fair use doctrine. Concord Music Group argues that Anthropic's use of their music for AI training does not transform the original works, while Anthropic contends that the outputs are sufficiently different to qualify as transformative. This dispute is critical as it will determine the applicability of fair use in this context. <a href="#article-1" class="citation">[1]</a>, <a href="#article-6" class="citation">[6]</a>, <a href="#article-14" class="citation">[14]</a></p>
     
 </div>
 
@@ -40,7 +40,17 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Copyright defenses and their limits, Economic/business model impacts on creators vs. AI companies</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The issue of whether Concord Music Group has adequately demonstrated market harm due to Anthropic's use of their music is disputed. Concord claims significant financial losses, while Anthropic argues that there is no evidence of actual market harm. <a href="#article-2" class="citation">[2]</a>, <a href="#article-14" class="citation">[14]</a></p>
+    <p>The issue of whether Concord Music Group has adequately demonstrated market harm due to Anthropic's use of their music is unresolved. Concord claims that the unauthorized use of their music for AI training has led to a decline in sales and licensing opportunities, while Anthropic disputes this claim, arguing that there is no evidence of actual market harm. <a href="#article-2" class="citation">[2]</a>, <a href="#article-3" class="citation">[3]</a>, <a href="#article-14" class="citation">[14]</a></p>
+    
+</div>
+
+</details>
+
+<details class="legal-issue unresolved">
+<summary><strong>Discovery/preservation obligations, Related legal theories</strong></summary>
+
+<div class="legal-issue-content">
+    <p>The scope of discovery regarding the data used by Anthropic for AI training is a contentious issue. Concord seeks extensive access to Anthropic's training data and methodologies to substantiate their claims, while Anthropic argues that such requests are overly broad and infringe on proprietary information. <a href="#article-5" class="citation">[5]</a>, <a href="#article-7" class="citation">[7]</a>, <a href="#article-14" class="citation">[14]</a></p>
     
 </div>
 
@@ -50,27 +60,17 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Jurisdictional questions</strong></summary>
 
 <div class="legal-issue-content">
-    <p>Jurisdictional questions arise regarding the applicability of international copyright law in this case, particularly concerning the enforcement of U.S. copyright laws against a company that may operate internationally. The parties disagree on the appropriate jurisdiction for resolving these issues. <a href="#article-1" class="citation">[1]</a>, <a href="#article-3" class="citation">[3]</a>, <a href="#article-19" class="citation">[19]</a></p>
+    <p>Jurisdictional questions arise regarding the applicability of international copyright law, particularly in relation to the use of music across borders. Concord Music Group is based in the U.S., while Anthropic operates internationally, raising questions about which jurisdiction's laws apply. <a href="#article-1" class="citation">[1]</a>, <a href="#article-6" class="citation">[6]</a>, <a href="#article-14" class="citation">[14]</a></p>
     
 </div>
 
 </details>
 
 <details class="legal-issue unresolved">
-<summary><strong>Discovery/preservation obligations</strong></summary>
+<summary><strong>Economic/business model impacts on creators vs. AI companies, Precedential implications</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The scope of discovery is contested, particularly regarding the data retention obligations of Anthropic and whether they must provide access to certain internal documents related to AI training processes. Concord seeks extensive discovery, while Anthropic argues for a more limited scope. <a href="#article-2" class="citation">[2]</a>, <a href="#article-6" class="citation">[6]</a>, <a href="#article-14" class="citation">[14]</a></p>
-    
-</div>
-
-</details>
-
-<details class="legal-issue unresolved">
-<summary><strong>Economic/business model impacts on creators vs. AI companies</strong></summary>
-
-<div class="legal-issue-content">
-    <p>The economic implications of the case for both creators and AI companies are significant, particularly regarding licensing requirements and compensation models. The parties disagree on how AI companies should compensate creators for the use of their works in training datasets. <a href="#article-1" class="citation">[1]</a>, <a href="#article-6" class="citation">[6]</a>, <a href="#article-14" class="citation">[14]</a></p>
+    <p>The potential economic impact on the music industry and AI companies is a significant concern. The case could set a precedent for how music licensing is handled in the context of AI, affecting future business models and creator compensation. <a href="#article-2" class="citation">[2]</a>, <a href="#article-6" class="citation">[6]</a>, <a href="#article-14" class="citation">[14]</a></p>
     
 </div>
 
@@ -84,14 +84,14 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <details class="outcome-details">
 <summary><strong>Plaintiff (Concord Music Group) wins</strong></summary>
 <div class="outcome-content">
-    If Concord Music Group prevails, the court's ruling could set a significant precedent on the transformative use of AI training data. The key question—whether AI training is transformative—might be answered in favor of the plaintiffs, indicating that Anthropic's use of Concord's music does not sufficiently transform the original works [1, 6]. This could lead to substantial damages for Concord, which claims significant financial losses due to Anthropic's actions [2]. The court may also impose strict discovery obligations on Anthropic, requiring disclosure of internal documents related to AI training, influencing future data governance and transparency cases [3, 4]. Additionally, the ruling could compel AI companies to negotiate licensing agreements with content creators, altering the economic landscape of AI training [1, 6]. However, there is disagreement on the extent of market harm, with Concord asserting significant losses while Anthropic contests this [2, 8]. Unresolved issues include compensation models for creators and international copyright law implications [1, 19].
+    If Concord Music Group prevails, the court's ruling could determine that AI training does not qualify as transformative use under the fair use doctrine, significantly affecting AI companies' use of copyrighted materials. Concord argues that Anthropic's use of their music does not create new, original works, failing the transformative threshold [1, 2]. This could result in substantial damages for Anthropic, potentially in the millions, as Concord claims market harm from lost sales and licensing opportunities [3, 4]. The court may also impose strict discovery obligations on Anthropic, requiring detailed disclosures of their training data and methodologies, setting a precedent for data governance and creator compensation [5, 6]. Additionally, the ruling could raise questions about the applicability of international copyright law if U.S. laws are deemed governing despite Anthropic's international operations [1, 2]. Overall, this outcome would strengthen content creators' rights against AI companies, reshaping music licensing and AI training practices [7, 8].
 </div>
 </details>
 
 <details class="outcome-details">
 <summary><strong>Defendant (Anthropic) wins</strong></summary>
 <div class="outcome-content">
-    Should Anthropic win, it would likely reinforce the argument that AI training can be considered transformative use under the fair use doctrine, as they contend that their outputs are sufficiently different from the original works [1, 6]. This outcome could diminish Concord's bargaining power, allowing AI companies to utilize copyrighted materials without significant compensation, potentially leading to a devaluation of creative works [2, 4]. The court may also limit Concord's discovery requests, reducing the burden on Anthropic to disclose internal training data, which could set a precedent for privacy and operational requirements in AI litigation [3, 7]. However, this ruling would not resolve the broader questions of market harm, as Concord asserts financial losses that Anthropic disputes [2, 8]. The unresolved legal questions would include the adequacy of compensation for creators and the implications of jurisdictional issues in enforcing copyright laws against international entities [1, 19].
+    If Anthropic prevails, it may be due to a ruling that their AI training qualifies as transformative use, thus receiving fair use protections. Their defense could argue that the AI-generated outputs are distinct from the original music, satisfying transformative criteria [2, 4]. This could significantly reduce Anthropic's liability, potentially saving millions in damages and allowing continued AI training without hefty licensing fees [3, 6]. However, such a ruling might worsen economic challenges for content creators by diminishing their bargaining power and monetization opportunities [5, 7]. Additionally, the court's decision on discovery obligations may favor Anthropic, restricting Concord's access to proprietary training data, which could set a precedent for data privacy in future AI litigation [1, 8]. This situation raises important questions about balancing innovation and creator rights in the evolving AI landscape [6, 7].
 </div>
 </details>
 

@@ -30,7 +30,7 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Copyright defenses and their limits, Precedential implications</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The core question is whether the use of copyrighted works in training AI models constitutes fair use. The Authors Guild argues that OpenAI's practices infringe copyright by using their works without authorization, while OpenAI contends that its training methods are transformative and thus protected under fair use. This dispute remains unresolved as the court has not yet ruled on the substantive merits of the fair use defense. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
+    <p>The core question is whether the use of copyrighted works in training AI models constitutes fair use. The Authors Guild argues that OpenAI's practices infringe copyright by using their works without authorization, while OpenAI contends that its training methods are transformative and thus protected under fair use. This dispute remains unresolved as both parties present conflicting interpretations of what constitutes transformative use. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
     
 </div>
 
@@ -40,17 +40,7 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Copyright defenses and their limits, Economic/business model impacts on creators vs. AI companies</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The question of whether OpenAI's training practices cause market harm to authors is disputed. The Authors Guild claims that the availability of AI-generated content undermines the market for their works, while OpenAI argues that its outputs do not directly compete with the original works. This issue is critical for determining the applicability of the fair use defense and remains unresolved. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
-    
-</div>
-
-</details>
-
-<details class="legal-issue unresolved">
-<summary><strong>Discovery/preservation obligations</strong></summary>
-
-<div class="legal-issue-content">
-    <p>The scope of discovery regarding OpenAI's training data and methods is a contentious issue. The Authors Guild seeks extensive information about the datasets used for training, including whether copyrighted materials were included without permission. OpenAI's response to these discovery requests and the court's ruling on the scope of discovery are still pending. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
+    <p>The question of whether OpenAI's use of data from pirate book repositories like LibGen and Z-Library constitutes copyright infringement is a significant point of contention. The Authors Guild claims that this practice directly harms authors by undermining their market, while OpenAI argues that the data used does not infringe copyright as it is not directly reproducing the works. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
     
 </div>
 
@@ -60,7 +50,7 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Jurisdictional questions</strong></summary>
 
 <div class="legal-issue-content">
-    <p>Jurisdictional questions arise regarding the applicability of international copyright law, particularly concerning the use of works from authors outside the U.S. The Authors Guild may argue for broader jurisdiction based on the global nature of the internet and AI training, while OpenAI may contest this. The court has yet to address these jurisdictional issues. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
+    <p>Jurisdictional questions arise regarding the enforcement of copyright laws across borders, particularly in relation to international copyright law and the applicability of U.S. laws to foreign entities. The case raises issues about where the lawsuit can be effectively pursued and which laws apply. <a href="#article-1" class="citation">[1]</a></p>
     
 </div>
 
@@ -70,7 +60,17 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Economic/business model impacts on creators vs. AI companies</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The economic impact of AI on the traditional publishing model is a significant concern. The Authors Guild argues that AI-generated content could disrupt the market for authors, potentially leading to reduced income and fewer opportunities. OpenAI may counter that AI can enhance creativity and provide new avenues for authors. This economic debate is ongoing and has not been resolved in court. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
+    <p>The economic implications for authors and creators versus AI companies are at stake, particularly regarding licensing requirements and compensation models. The Authors Guild is advocating for a model that ensures creators are compensated for the use of their works, while OpenAI's business model may not align with this. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
+    
+</div>
+
+</details>
+
+<details class="legal-issue unresolved">
+<summary><strong>Discovery/preservation obligations</strong></summary>
+
+<div class="legal-issue-content">
+    <p>The scope of discovery in this case is a contentious issue, particularly regarding the data retention practices of OpenAI and the extent to which third-party access to training data is permissible. The Authors Guild seeks extensive discovery to prove its claims, while OpenAI may argue for limitations based on privacy and proprietary concerns. <a href="#article-2" class="citation">[2]</a></p>
     
 </div>
 
@@ -84,14 +84,14 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <details class="outcome-details">
 <summary><strong>Plaintiff (Authors Guild) wins</strong></summary>
 <div class="outcome-content">
-    If the Authors Guild wins, the court may determine that OpenAI's use of copyrighted works for training its AI models does not qualify as fair use, focusing on the commercial nature of OpenAI's operations. This could result in damages potentially reaching billions, as authors seek compensation for market harm from AI-generated content that competes with their works [1, 2]. The ruling might impose strict operational requirements on OpenAI, necessitating licensing agreements for copyrighted materials, which would increase costs and complicate data governance [3, 4]. Additionally, the court's decision on discovery could force OpenAI to reveal extensive details about its training data, raising privacy and compliance concerns [5, 6]. This outcome could set a precedent reinforcing creator rights amid AI advancements, reshaping industry standards for data sourcing and compensation, though questions about the transformative nature of AI training remain unresolved [1, 2].
+    If the Authors Guild wins, the court may determine that OpenAI's use of copyrighted works for training its AI models does not qualify as fair use, particularly regarding transformative use [1, 2]. This could result in significant damages for authors, potentially reaching billions, as the court may find OpenAI's practices detrimental to the market for authors' works [3, 7]. The ruling could also impose strict operational requirements on OpenAI, necessitating licensing agreements for copyrighted materials, fundamentally changing its business model [1, 2]. Additionally, the decision might establish extensive discovery obligations, requiring OpenAI to reveal its data sourcing practices, including the use of materials from pirate sites like LibGen and Z-Library, raising privacy concerns [2, 4]. This outcome could ensure creators receive compensation, addressing the current imbalance favoring AI companies, while leaving the question of transformative use unresolved for future litigation [1, 2].
 </div>
 </details>
 
 <details class="outcome-details">
 <summary><strong>Defendant (OpenAI) wins</strong></summary>
 <div class="outcome-content">
-    Should OpenAI win, the court may determine that its training practices constitute fair use, particularly highlighting the transformative nature of AI outputs that do not directly replicate original works [1, 2]. This ruling could significantly reduce OpenAI's liability, allowing it to continue using copyrighted materials without extensive licensing, thereby preserving its operational model and reducing costs associated with compliance [3, 4]. However, this outcome could exacerbate economic disparities for authors, as AI-generated content may further devalue their works and diminish their market share, leading to potential long-term financial harm [5, 6]. The court's decision on discovery could also limit the extent to which the Authors Guild can investigate OpenAI's training practices, potentially shielding OpenAI from scrutiny regarding its data sourcing [7, 8]. Nevertheless, unresolved legal questions remain, particularly around the definition of transformative use and the potential for market harm to authors [1, 2].
+    If OpenAI prevails, the court may rule that its use of copyrighted works for training AI models qualifies as fair use, particularly under transformative use arguments [1, 2]. This could enhance OpenAI's operational model, allowing it to utilize extensive data without licensing agreements, potentially saving millions in fees [1, 2]. However, such a ruling may worsen economic challenges for authors by undermining their ability to monetize their works and reducing their bargaining power [1, 2]. Additionally, it could set a precedent that weakens copyright protections for creators in the AI context [1, 2]. Unresolved issues regarding the legality of using data from pirate sites like LibGen and Z-Library would remain, as the court might not fully address these implications, leaving gaps in the legal framework for AI training and creator compensation [1, 2].
 </div>
 </details>
 
