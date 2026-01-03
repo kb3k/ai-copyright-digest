@@ -7,7 +7,7 @@ title: AI Copyright Docket
 
 **Tracking major AI copyright litigation**
 
-*Last Updated: 2026-01-02*
+*Last Updated: January 02, 2026*
 
 This case tracker monitors key U.S. litigation that raises copyright (and copyright adjacent) issues related to the creation and use of generative AI. These issues can have a significant impact across the AI value chain, from content creators to those providing datasets, models, or AI solutions, and further still to the downstream uses of AI solutions (and AI outputs).
 
@@ -18,7 +18,7 @@ This case tracker monitors key U.S. litigation that raises copyright (and copyri
 
 <div class="case-card">
     <h3 class="case-card-title"><a href="cases/bartz-v-anthropic.html">Bartz v Anthropic</a></h3>
-    <p class="case-card-meta">Last analyzed: 2026-01-02</p>
+    <p class="case-card-meta">Last analyzed: January 02, 2026</p>
     <p class="case-card-highlights"><strong>Highlights:</strong> Historic $1.5B settlement • Fair use debate • Transformative use unresolved</p>
     <p class="case-card-summary">A landmark class action lawsuit challenging Anthropic's use of copyrighted materials to train its Claude AI models. The case centers on whether AI training constitutes fair use, with plaintiffs seeking compensation for unauthorized use of their cr...</p>
     <p><a href="cases/bartz-v-anthropic.html" class="nav-link">Read full analysis →</a></p>
@@ -26,7 +26,7 @@ This case tracker monitors key U.S. litigation that raises copyright (and copyri
 
 <div class="case-card">
     <h3 class="case-card-title"><a href="cases/nyt-v-openai.html">NYT v OpenAI</a></h3>
-    <p class="case-card-meta">Last analyzed: 2026-01-02</p>
+    <p class="case-card-meta">Last analyzed: January 02, 2026</p>
     <p class="case-card-highlights"><strong>Highlights:</strong> Billions in damages sought • 120M ChatGPT logs disputed • Privacy vs discovery</p>
     <p class="case-card-summary">A high-stakes copyright infringement lawsuit where The New York Times alleges OpenAI and Microsoft used millions of its articles to train ChatGPT without permission. The case involves complex discovery disputes over user data and ChatGPT logs.</p>
     <p><a href="cases/nyt-v-openai.html" class="nav-link">Read full analysis →</a></p>
