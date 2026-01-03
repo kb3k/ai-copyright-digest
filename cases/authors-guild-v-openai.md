@@ -30,7 +30,7 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Copyright defenses and their limits, Precedential implications</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The core question is whether OpenAI's use of copyrighted works for training its models constitutes fair use, particularly under the transformative use doctrine. The Authors Guild argues that the outputs of the AI can reproduce original works, undermining the defense of transformation. This remains a significant point of contention. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
+    <p>The core question is whether the use of copyrighted works in training AI models constitutes fair use. The Authors Guild argues that OpenAI's practices infringe copyright by using their works without authorization, while OpenAI contends that its training methods are transformative and thus protected under fair use. This dispute remains unresolved as the court has not yet ruled on the substantive merits of the fair use defense. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
     
 </div>
 
@@ -40,27 +40,7 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Copyright defenses and their limits, Economic/business model impacts on creators vs. AI companies</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The Authors Guild claims that OpenAI's actions constitute copyright infringement by using their copyrighted works without permission. The specific damages sought are not detailed in the articles, but the potential financial implications for OpenAI could be substantial, depending on the court's ruling. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
-    
-</div>
-
-</details>
-
-<details class="legal-issue unresolved">
-<summary><strong>Jurisdictional questions</strong></summary>
-
-<div class="legal-issue-content">
-    <p>There are unresolved jurisdictional questions regarding the applicability of international copyright law and whether the case should be heard in a specific forum. The choice of law and enforcement across borders could significantly impact the case's outcome. <a href="#article-1" class="citation">[1]</a></p>
-    
-</div>
-
-</details>
-
-<details class="legal-issue unresolved">
-<summary><strong>Economic/business model impacts on creators vs. AI companies</strong></summary>
-
-<div class="legal-issue-content">
-    <p>The economic impact on creators versus AI companies is a critical issue, particularly regarding licensing requirements and how AI companies might need to adjust their business models to compensate creators. The potential for operational costs to rise significantly if licensing becomes mandatory is a point of contention. <a href="#article-1" class="citation">[1]</a></p>
+    <p>The question of whether OpenAI's training practices cause market harm to authors is disputed. The Authors Guild claims that the availability of AI-generated content undermines the market for their works, while OpenAI argues that its outputs do not directly compete with the original works. This issue is critical for determining the applicability of the fair use defense and remains unresolved. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
     
 </div>
 
@@ -70,7 +50,27 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Discovery/preservation obligations</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The scope of discovery and preservation obligations, particularly regarding data retention and third-party access, are critical as the case progresses. The extent to which OpenAI must disclose its training data and methodologies remains a debated issue. <a href="#article-1" class="citation">[1]</a></p>
+    <p>The scope of discovery regarding OpenAI's training data and methods is a contentious issue. The Authors Guild seeks extensive information about the datasets used for training, including whether copyrighted materials were included without permission. OpenAI's response to these discovery requests and the court's ruling on the scope of discovery are still pending. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
+    
+</div>
+
+</details>
+
+<details class="legal-issue unresolved">
+<summary><strong>Jurisdictional questions</strong></summary>
+
+<div class="legal-issue-content">
+    <p>Jurisdictional questions arise regarding the applicability of international copyright law, particularly concerning the use of works from authors outside the U.S. The Authors Guild may argue for broader jurisdiction based on the global nature of the internet and AI training, while OpenAI may contest this. The court has yet to address these jurisdictional issues. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
+    
+</div>
+
+</details>
+
+<details class="legal-issue unresolved">
+<summary><strong>Economic/business model impacts on creators vs. AI companies</strong></summary>
+
+<div class="legal-issue-content">
+    <p>The economic impact of AI on the traditional publishing model is a significant concern. The Authors Guild argues that AI-generated content could disrupt the market for authors, potentially leading to reduced income and fewer opportunities. OpenAI may counter that AI can enhance creativity and provide new avenues for authors. This economic debate is ongoing and has not been resolved in court. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
     
 </div>
 
@@ -82,16 +82,16 @@ This case involves 5 key legal issues related to AI copyright and training data 
     <h2>Possible Outcomes</h2>
     
 <details class="outcome-details">
-<summary><strong>Plaintiff (NYT) wins - OpenAI found liable for copyright infringement</strong></summary>
+<summary><strong>Plaintiff (Authors Guild) wins</strong></summary>
 <div class="outcome-content">
-    If the Authors Guild wins and OpenAI is found liable for copyright infringement, the ruling will focus on whether OpenAI's use of copyrighted works qualifies as fair use, particularly under the transformative use doctrine. The court may decide that OpenAI's outputs, which can replicate original works, weaken the transformation defense [1, 2]. This could result in significant financial damages for OpenAI, potentially reaching billions, depending on the number of works and statutory damages [3, 7]. OpenAI might also face injunctions requiring operational changes, such as modifying training practices or establishing licensing agreements with content creators [1]. The ruling could set a precedent for AI companies regarding copyright law, affecting their business models and costs [1]. Additionally, unresolved jurisdictional issues in international copyright law could complicate enforcement and compliance, raising concerns about data governance and creator compensation [1].
+    If the Authors Guild wins, the court may determine that OpenAI's use of copyrighted works for training its AI models does not qualify as fair use, focusing on the commercial nature of OpenAI's operations. This could result in damages potentially reaching billions, as authors seek compensation for market harm from AI-generated content that competes with their works [1, 2]. The ruling might impose strict operational requirements on OpenAI, necessitating licensing agreements for copyrighted materials, which would increase costs and complicate data governance [3, 4]. Additionally, the court's decision on discovery could force OpenAI to reveal extensive details about its training data, raising privacy and compliance concerns [5, 6]. This outcome could set a precedent reinforcing creator rights amid AI advancements, reshaping industry standards for data sourcing and compensation, though questions about the transformative nature of AI training remain unresolved [1, 2].
 </div>
 </details>
 
 <details class="outcome-details">
-<summary><strong>Defendant (OpenAI) wins - Fair use defense successful</strong></summary>
+<summary><strong>Defendant (OpenAI) wins</strong></summary>
 <div class="outcome-content">
-    Should OpenAI successfully argue that its use of copyrighted works constitutes fair use, particularly under the transformative use doctrine, it would mark a significant legal victory for AI companies. The court may find that OpenAI's training processes transform the original works into new, non-copyrightable outputs, thus supporting the fair use defense [1, 2]. This outcome could prevent substantial damages claims, which could otherwise reach billions, and allow OpenAI to continue its current operational model without the need for costly licensing agreements [3, 7]. However, this ruling would not resolve the broader industry concerns regarding creator compensation and the economic realities faced by authors, who may see their works devalued in the AI landscape [1]. Additionally, unresolved questions about the scope of discovery obligations and data retention practices would remain critical, as OpenAI may still be required to disclose its training methodologies, impacting privacy and data governance [1].
+    Should OpenAI win, the court may determine that its training practices constitute fair use, particularly highlighting the transformative nature of AI outputs that do not directly replicate original works [1, 2]. This ruling could significantly reduce OpenAI's liability, allowing it to continue using copyrighted materials without extensive licensing, thereby preserving its operational model and reducing costs associated with compliance [3, 4]. However, this outcome could exacerbate economic disparities for authors, as AI-generated content may further devalue their works and diminish their market share, leading to potential long-term financial harm [5, 6]. The court's decision on discovery could also limit the extent to which the Authors Guild can investigate OpenAI's training practices, potentially shielding OpenAI from scrutiny regarding its data sourcing [7, 8]. Nevertheless, unresolved legal questions remain, particularly around the definition of transformative use and the potential for market harm to authors [1, 2].
 </div>
 </details>
 
@@ -121,23 +121,23 @@ This case involves 5 key legal issues related to AI copyright and training data 
 
 <li class="article-item" id="article-3">
     <span class="article-number">3</span>
-    <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.18.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.18.0.pdf</a>
+    <a href="https://archive.org/download/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.82.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.82.0.pdf</a>
     <div class="article-meta">
-        <span class="article-source">storage.courtlistener.com</span>
+        <span class="article-source">archive.org</span>
     </div>
 </li>
 
 <li class="article-item" id="article-4">
     <span class="article-number">4</span>
-    <a href="https://chatgptiseatingtheworld.com/wp-content/uploads/2024/12/Pierce-v.-Photobucket-Dec-11-2024.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: Pierce-v.-Photobucket-Dec-11-2024.pdf</a>
+    <a href="https://archive.org/download/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.29.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.29.0.pdf</a>
     <div class="article-meta">
-        <span class="article-source">chatgptiseatingtheworld.com</span>
+        <span class="article-source">archive.org</span>
     </div>
 </li>
 
 <li class="article-item" id="article-5">
     <span class="article-number">5</span>
-    <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.608447/gov.uscourts.nysd.608447.91.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.608447.91.0.pdf</a>
+    <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.123.1.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.123.1.pdf</a>
     <div class="article-meta">
         <span class="article-source">storage.courtlistener.com</span>
     </div>
@@ -145,55 +145,55 @@ This case involves 5 key legal issues related to AI copyright and training data 
 
 <li class="article-item" id="article-6">
     <span class="article-number">6</span>
-    <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.56.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.56.0.pdf</a>
+    <a href="https://archive.org/download/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.123.2.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.123.2.pdf</a>
     <div class="article-meta">
-        <span class="article-source">storage.courtlistener.com</span>
+        <span class="article-source">archive.org</span>
     </div>
 </li>
 
 <li class="article-item" id="article-7">
     <span class="article-number">7</span>
-    <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.621575/gov.uscourts.nysd.621575.53.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.621575.53.0.pdf</a>
+    <a href="https://archive.org/download/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.45.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.45.0.pdf</a>
     <div class="article-meta">
-        <span class="article-source">storage.courtlistener.com</span>
+        <span class="article-source">archive.org</span>
     </div>
 </li>
 
 <li class="article-item" id="article-8">
     <span class="article-number">8</span>
-    <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.644350/gov.uscourts.nysd.644350.34.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.644350.34.0.pdf</a>
+    <a href="https://archive.org/download/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.42.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.42.0.pdf</a>
     <div class="article-meta">
-        <span class="article-source">storage.courtlistener.com</span>
+        <span class="article-source">archive.org</span>
     </div>
 </li>
 
 <li class="article-item" id="article-9">
     <span class="article-number">9</span>
-    <a href="https://archive.org/download/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.88.2.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.88.2.pdf</a>
-    <div class="article-meta">
-        <span class="article-source">archive.org</span>
-    </div>
-</li>
-
-<li class="article-item" id="article-10">
-    <span class="article-number">10</span>
-    <a href="https://storage.courtlistener.com/recap/gov.uscourts.cacd.945374/gov.uscourts.cacd.945374.81.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.cacd.945374.81.0.pdf</a>
+    <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.71.1_1.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.71.1_1.pdf</a>
     <div class="article-meta">
         <span class="article-source">storage.courtlistener.com</span>
     </div>
 </li>
 
-<li class="article-item" id="article-11">
-    <span class="article-number">11</span>
-    <a href="https://archive.org/download/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.59.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.59.0.pdf</a>
+<li class="article-item" id="article-10">
+    <span class="article-number">10</span>
+    <a href="https://archive.org/download/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.6.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.6.0.pdf</a>
     <div class="article-meta">
         <span class="article-source">archive.org</span>
     </div>
 </li>
 
+<li class="article-item" id="article-11">
+    <span class="article-number">11</span>
+    <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.7.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.7.0.pdf</a>
+    <div class="article-meta">
+        <span class="article-source">storage.courtlistener.com</span>
+    </div>
+</li>
+
 <li class="article-item" id="article-12">
     <span class="article-number">12</span>
-    <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.111.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.111.0.pdf</a>
+    <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.38.2.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.38.2.pdf</a>
     <div class="article-meta">
         <span class="article-source">storage.courtlistener.com</span>
     </div>
@@ -201,7 +201,7 @@ This case involves 5 key legal issues related to AI copyright and training data 
 
 <li class="article-item" id="article-13">
     <span class="article-number">13</span>
-    <a href="https://archive.org/download/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.17.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.17.0.pdf</a>
+    <a href="https://archive.org/download/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.40.1.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.40.1.pdf</a>
     <div class="article-meta">
         <span class="article-source">archive.org</span>
     </div>
@@ -209,15 +209,15 @@ This case involves 5 key legal issues related to AI copyright and training data 
 
 <li class="article-item" id="article-14">
     <span class="article-number">14</span>
-    <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.107.4.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.107.4.pdf</a>
+    <a href="https://archive.org/download/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.54.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.54.0.pdf</a>
     <div class="article-meta">
-        <span class="article-source">storage.courtlistener.com</span>
+        <span class="article-source">archive.org</span>
     </div>
 </li>
 
 <li class="article-item" id="article-15">
     <span class="article-number">15</span>
-    <a href="https://archive.org/download/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.34.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.34.0.pdf</a>
+    <a href="https://archive.org/download/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.35.1.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.35.1.pdf</a>
     <div class="article-meta">
         <span class="article-source">archive.org</span>
     </div>
@@ -225,15 +225,15 @@ This case involves 5 key legal issues related to AI copyright and training data 
 
 <li class="article-item" id="article-16">
     <span class="article-number">16</span>
-    <a href="https://archive.org/download/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.120.3.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.120.3.pdf</a>
+    <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.69.0_1.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.69.0_1.pdf</a>
     <div class="article-meta">
-        <span class="article-source">archive.org</span>
+        <span class="article-source">storage.courtlistener.com</span>
     </div>
 </li>
 
 <li class="article-item" id="article-17">
     <span class="article-number">17</span>
-    <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.46.3.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.46.3.pdf</a>
+    <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.24.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.24.0.pdf</a>
     <div class="article-meta">
         <span class="article-source">storage.courtlistener.com</span>
     </div>
@@ -241,25 +241,25 @@ This case involves 5 key legal issues related to AI copyright and training data 
 
 <li class="article-item" id="article-18">
     <span class="article-number">18</span>
-    <a href="https://archive.org/download/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.65.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.65.0.pdf</a>
-    <div class="article-meta">
-        <span class="article-source">archive.org</span>
-    </div>
-</li>
-
-<li class="article-item" id="article-19">
-    <span class="article-number">19</span>
-    <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.52.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.612697.52.0.pdf</a>
+    <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.37.3.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.37.3.pdf</a>
     <div class="article-meta">
         <span class="article-source">storage.courtlistener.com</span>
     </div>
 </li>
 
-<li class="article-item" id="article-20">
-    <span class="article-number">20</span>
-    <a href="https://archive.org/download/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.46.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.46.0.pdf</a>
+<li class="article-item" id="article-19">
+    <span class="article-number">19</span>
+    <a href="https://archive.org/download/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.15.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.15.0.pdf</a>
     <div class="article-meta">
         <span class="article-source">archive.org</span>
+    </div>
+</li>
+
+<li class="article-item" id="article-20">
+    <span class="article-number">20</span>
+    <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.115.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.nysd.606655.115.0.pdf</a>
+    <div class="article-meta">
+        <span class="article-source">storage.courtlistener.com</span>
     </div>
 </li>
 

@@ -30,7 +30,7 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Copyright defenses and their limits, Precedential implications</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The core question is whether the use of copyrighted artworks to train AI models constitutes fair use under copyright law. Some sources argue that the transformative nature of AI-generated art supports a fair use defense, while others contend that the outputs can closely resemble the originals, undermining this defense. <a href="#article-12" class="citation">[12]</a>, <a href="#article-14" class="citation">[14]</a>, <a href="#article-18" class="citation">[18]</a></p>
+    <p>The core question is whether the use of artists' works to train AI models constitutes fair use under copyright law. Some sources argue that the transformative nature of AI-generated outputs supports a fair use defense, while others contend that the outputs can closely resemble the original works, undermining this defense. <a href="#article-12" class="citation">[12]</a>, <a href="#article-14" class="citation">[14]</a>, <a href="#article-19" class="citation">[19]</a></p>
     
 </div>
 
@@ -40,7 +40,7 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Copyright defenses and their limits, Related legal theories</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The lawsuit raises questions about the legality of using artists' works without consent for AI training, specifically regarding DMCA violations and the right of publicity. The plaintiffs argue that the AI companies have violated these rights, while the defendants may claim that their use falls under fair use or other defenses. <a href="#article-12" class="citation">[12]</a>, <a href="#article-16" class="citation">[16]</a>, <a href="#article-14" class="citation">[14]</a></p>
+    <p>The lawsuit raises questions about the legality of using artists' works without consent for training AI models, specifically regarding DMCA violations and the right of publicity. The plaintiffs argue that the AI companies have violated these rights, while the defendants claim their use falls under permissible practices. <a href="#article-12" class="citation">[12]</a>, <a href="#article-13" class="citation">[13]</a>, <a href="#article-16" class="citation">[16]</a></p>
     
 </div>
 
@@ -50,27 +50,27 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Economic/business model impacts on creators vs. AI companies</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The economic implications of the lawsuit could reshape the business models of AI companies and impact creator compensation. The plaintiffs argue for licensing requirements and fair compensation for artists, while AI companies may argue that their models do not require such licensing. <a href="#article-12" class="citation">[12]</a>, <a href="#article-14" class="citation">[14]</a>, <a href="#article-16" class="citation">[16]</a></p>
+    <p>The economic implications of the lawsuit for creators versus AI companies are significant, particularly regarding licensing requirements and creator compensation. The plaintiffs argue that the current business models of AI companies exploit artists without fair compensation, while the defendants maintain that their models do not infringe on artists' rights. <a href="#article-12" class="citation">[12]</a>, <a href="#article-16" class="citation">[16]</a>, <a href="#article-20" class="citation">[20]</a></p>
     
 </div>
 
 </details>
 
 <details class="legal-issue unresolved">
-<summary><strong>Jurisdictional questions, Precedential implications</strong></summary>
+<summary><strong>Jurisdictional questions</strong></summary>
 
 <div class="legal-issue-content">
-    <p>Jurisdictional questions arise regarding the applicability of U.S. copyright law to international artists and AI companies. The case may set precedents for how international copyright law is enforced in the context of AI-generated content. <a href="#article-12" class="citation">[12]</a>, <a href="#article-14" class="citation">[14]</a>, <a href="#article-18" class="citation">[18]</a></p>
+    <p>Jurisdictional questions arise regarding the applicability of U.S. copyright law to international entities involved in the case. The plaintiffs are concerned about the enforcement of any potential judgments against foreign companies, while the defendants argue that U.S. law should not apply to their operations. <a href="#article-12" class="citation">[12]</a>, <a href="#article-14" class="citation">[14]</a>, <a href="#article-19" class="citation">[19]</a></p>
     
 </div>
 
 </details>
 
 <details class="legal-issue unresolved">
-<summary><strong>Discovery/preservation obligations, Privacy concerns</strong></summary>
+<summary><strong>Precedential implications</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The scope of discovery in the case, particularly regarding data retention and third-party access to AI training datasets, remains a contentious issue. The plaintiffs seek extensive data from the defendants to support their claims, while the defendants may argue for limitations based on privacy concerns. <a href="#article-12" class="citation">[12]</a>, <a href="#article-14" class="citation">[14]</a>, <a href="#article-18" class="citation">[18]</a></p>
+    <p>The case has implications for the broader industry regarding the use of AI in creative fields. The outcome could set a precedent for how AI companies operate and interact with artists, potentially leading to regulatory changes. <a href="#article-11" class="citation">[11]</a>, <a href="#article-14" class="citation">[14]</a>, <a href="#article-19" class="citation">[19]</a></p>
     
 </div>
 
@@ -82,16 +82,16 @@ This case involves 5 key legal issues related to AI copyright and training data 
     <h2>Possible Outcomes</h2>
     
 <details class="outcome-details">
-<summary><strong>Plaintiff wins the lawsuit</strong></summary>
+<summary><strong>Plaintiff (Plaintiff) wins</strong></summary>
 <div class="outcome-content">
-    If the plaintiffs win the lawsuit, it could set a significant precedent on the use of copyrighted works for AI training. The court may determine that using artists' works without consent does not qualify as fair use, especially if AI outputs closely resemble the originals, undermining the transformative use argument [12, 14]. This could result in substantial damages for the defendants, potentially reaching billions, as plaintiffs seek compensation for unauthorized use of billions of copyrighted images [3, 7]. The court might also impose operational requirements, such as mandatory licensing agreements for AI companies, altering their business models [16]. Additionally, the ruling could necessitate AI companies to disclose their training datasets, raising privacy concerns and extensive discovery obligations [1, 2]. However, questions remain about the application of fair use in commercial contexts and the enforcement of international copyright law in similar cases [14, 18].
+    If the plaintiffs win, it could set a significant precedent on the unauthorized use of artists' works for AI training, potentially leading to substantial damages for the defendants. The court may rule that such use does not qualify as fair use, especially if outputs closely resemble originals, undermining the transformative use argument [12, 14]. This could require AI companies to obtain explicit consent from artists, fundamentally altering their business models and increasing licensing costs [16, 19]. Damages sought could reflect the economic harm caused, potentially amounting to billions if widespread infringement is found [3, 7]. Additionally, this ruling could lead to increased regulatory scrutiny and compliance requirements for AI companies regarding training data and creator interactions [11, 14]. However, questions remain about the application of fair use in commercial contexts and jurisdictional enforcement against international entities [12, 19].
 </div>
 </details>
 
 <details class="outcome-details">
-<summary><strong>Defendant wins the lawsuit</strong></summary>
+<summary><strong>Defendant (Defendant) wins</strong></summary>
 <div class="outcome-content">
-    If the defendants win the lawsuit, it could reinforce the argument that AI training constitutes fair use, particularly if the court finds that the AI-generated outputs are sufficiently transformative [11, 13]. This outcome would likely allow AI companies to continue using copyrighted works without obtaining licenses, potentially leading to a devaluation of artists' works and diminishing their bargaining power in the marketplace [14, 16]. The ruling may also limit the scope of discovery, reducing the burden on defendants regarding data retention and privacy obligations [2, 4]. However, this outcome leaves unresolved critical questions about the adequacy of creator compensation and the legal boundaries of fair use in commercial applications [12, 18]. Furthermore, the implications for international artists and the enforcement of their rights under U.S. law remain ambiguous, as the jurisdictional questions surrounding this case could set troubling precedents for global copyright enforcement [14, 18].
+    If the defendants win, it would support the argument that their use of artists' works qualifies as fair use, highlighting the transformative nature of AI-generated outputs [2, 5]. This could enable AI companies to maintain their practices without significant changes, potentially depriving artists of compensation and worsening the economic gap between creators and AI firms [16, 19]. The court might determine that AI outputs do not infringe copyright due to insufficient similarity to original works, complicating the plaintiffs' claims of direct infringement [8, 10]. However, this ruling would leave unresolved issues regarding the adequacy of copyright protections for artists in the digital age and the implications of using copyrighted material without consent [12, 14]. Furthermore, it could set a precedent that limits creators' ability to seek redress in future cases, raising concerns about the sustainability of their rights amid advancing technology [11, 19].
 </div>
 </details>
 
@@ -105,23 +105,23 @@ This case involves 5 key legal issues related to AI copyright and training data 
             
 <li class="article-item" id="article-1">
     <span class="article-number">1</span>
+    <a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.407208/gov.uscourts.cand.407208.51.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.cand.407208.51.0.pdf</a>
+    <div class="article-meta">
+        <span class="article-source">storage.courtlistener.com</span>
+    </div>
+</li>
+
+<li class="article-item" id="article-2">
+    <span class="article-number">2</span>
     <a href="https://iprmentlaw.com/wp-content/uploads/2024/08/gov.uscourts.cand_.407208.223.0_2.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.cand_.407208.223.0_2.pdf</a>
     <div class="article-meta">
         <span class="article-source">iprmentlaw.com</span>
     </div>
 </li>
 
-<li class="article-item" id="article-2">
-    <span class="article-number">2</span>
-    <a href="https://www.crowell.com/print/v2/content/85955/california-federal-court-trims-lawsuit-against-stability-ai-midjourney-and-deviantart-in-generative-ai-artwork-case.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: california-federal-court-trims-lawsuit-against-stability-ai-midjourney-and-deviantart-in-generative-ai-artwork-case.pdf</a>
-    <div class="article-meta">
-        <span class="article-source">www.crowell.com</span>
-    </div>
-</li>
-
 <li class="article-item" id="article-3">
     <span class="article-number">3</span>
-    <a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.407208/gov.uscourts.cand.407208.51.0.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.cand.407208.51.0.pdf</a>
+    <a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.407208/gov.uscourts.cand.407208.223.0_2.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.cand.407208.223.0_2.pdf</a>
     <div class="article-meta">
         <span class="article-source">storage.courtlistener.com</span>
     </div>
@@ -129,9 +129,9 @@ This case involves 5 key legal issues related to AI copyright and training data 
 
 <li class="article-item" id="article-4">
     <span class="article-number">4</span>
-    <a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.407208/gov.uscourts.cand.407208.223.0_2.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: gov.uscourts.cand.407208.223.0_2.pdf</a>
+    <a href="https://www.crowell.com/print/v2/content/85955/california-federal-court-trims-lawsuit-against-stability-ai-midjourney-and-deviantart-in-generative-ai-artwork-case.pdf" class="article-link" target="_blank" rel="noopener noreferrer">Court Document: california-federal-court-trims-lawsuit-against-stability-ai-midjourney-and-deviantart-in-generative-ai-artwork-case.pdf</a>
     <div class="article-meta">
-        <span class="article-source">storage.courtlistener.com</span>
+        <span class="article-source">www.crowell.com</span>
     </div>
 </li>
 
@@ -201,65 +201,65 @@ This case involves 5 key legal issues related to AI copyright and training data 
 
 <li class="article-item" id="article-13">
     <span class="article-number">13</span>
+    <a href="https://www.prnewswire.com/news-releases/class-action-filed-against-stability-ai-midjourney-and-deviantart-for-dmca-violations-right-of-publicity-violations-unlawful-competition-breach-of-tos-301721869.html" class="article-link" target="_blank" rel="noopener noreferrer">Class Action Filed Against Stability AI, Midjourney, and DeviantArt ...</a>
+    <div class="article-meta">
+        <span class="article-source">www.prnewswire.com</span>
+    </div>
+</li>
+
+<li class="article-item" id="article-14">
+    <span class="article-number">14</span>
     <a href="https://jipel.law.nyu.edu/andersen-v-stability-ai-the-landmark-case-unpacking-the-copyright-risks-of-ai-image-generators/" class="article-link" target="_blank" rel="noopener noreferrer">Andersen v. Stability AI: The Landmark Case Unpacking ...</a>
     <div class="article-meta">
         <span class="article-source">jipel.law.nyu.edu</span>
     </div>
 </li>
 
-<li class="article-item" id="article-14">
-    <span class="article-number">14</span>
-    <a href="https://moginlawllp.com/artists-sue-ai-companies-for-copyright-infringement/" class="article-link" target="_blank" rel="noopener noreferrer">Artists Sue AI Companies for Copyright Infringement</a>
-    <div class="article-meta">
-        <span class="article-source">moginlawllp.com</span>
-    </div>
-</li>
-
 <li class="article-item" id="article-15">
     <span class="article-number">15</span>
-    <a href="https://www.saverilawfirm.com/our-cases/ai-artgenerators-copyright-litigation" class="article-link" target="_blank" rel="noopener noreferrer">AI Art Generator Copyright Litigation</a>
+    <a href="https://www.mckoolsmith.com/newsroom-ailitigation-35" class="article-link" target="_blank" rel="noopener noreferrer">AI Infringement Case Updates: September 7, 2025 - McKool Smith</a>
     <div class="article-meta">
-        <span class="article-source">www.saverilawfirm.com</span>
+        <span class="article-source">www.mckoolsmith.com</span>
     </div>
 </li>
 
 <li class="article-item" id="article-16">
     <span class="article-number">16</span>
-    <a href="https://www.prnewswire.com/news-releases/class-action-filed-against-stability-ai-midjourney-and-deviantart-for-dmca-violations-right-of-publicity-violations-unlawful-competition-breach-of-tos-301721869.html" class="article-link" target="_blank" rel="noopener noreferrer">Class Action Filed Against Stability AI, Midjourney, and ...</a>
+    <a href="https://moginlawllp.com/artists-sue-ai-companies-for-copyright-infringement/" class="article-link" target="_blank" rel="noopener noreferrer">Artists Sue AI Companies for Copyright Infringement - Mogin Law LLP</a>
     <div class="article-meta">
-        <span class="article-source">www.prnewswire.com</span>
+        <span class="article-source">moginlawllp.com</span>
     </div>
 </li>
 
 <li class="article-item" id="article-17">
     <span class="article-number">17</span>
-    <a href="https://www.zhangjingna.com/blog/class-action-lawsuit-artists-v-stability-deviantart-midjourney-runway-ai" class="article-link" target="_blank" rel="noopener noreferrer">Class Action Lawsuit v. Stability AI, DeviantArt, Midjourney ...</a>
+    <a href="https://www.mckoolsmith.com/newsroom-ailitigation-45" class="article-link" target="_blank" rel="noopener noreferrer">AI Infringement Case Updates: November 17, 2025 - McKool Smith</a>
     <div class="article-meta">
-        <span class="article-source">www.zhangjingna.com</span>
+        <span class="article-source">www.mckoolsmith.com</span>
     </div>
 </li>
 
 <li class="article-item" id="article-18">
     <span class="article-number">18</span>
-    <a href="https://www.mckoolsmith.com/newsroom-ailitigation-40" class="article-link" target="_blank" rel="noopener noreferrer">AI Infringement Case Updates: October 13, 2025</a>
+    <a href="https://www.loeb.com/en/insights/publications/2023/11/andersen-v-stability-ai-ltd" class="article-link" target="_blank" rel="noopener noreferrer">Andersen v. Stability AI Ltd. | Loeb & Loeb LLP</a>
     <div class="article-meta">
-        <span class="article-source">www.mckoolsmith.com</span>
+        <span class="article-source">www.loeb.com</span>
     </div>
 </li>
 
 <li class="article-item" id="article-19">
     <span class="article-number">19</span>
-    <a href="https://www.mckoolsmith.com/newsroom-ailitigation-35" class="article-link" target="_blank" rel="noopener noreferrer">AI Infringement Case Updates: September 7, 2025</a>
+    <a href="https://www.jdsupra.com/legalnews/andersen-v-stability-ai-defendants-9655138/" class="article-link" target="_blank" rel="noopener noreferrer">Andersen v. Stability AI: Defendants' Motion to Dismiss Narrows the ...</a>
     <div class="article-meta">
-        <span class="article-source">www.mckoolsmith.com</span>
+        <span class="article-source">www.jdsupra.com</span>
     </div>
 </li>
 
 <li class="article-item" id="article-20">
     <span class="article-number">20</span>
-    <a href="https://www.mckoolsmith.com/newsroom-ailitigation-39" class="article-link" target="_blank" rel="noopener noreferrer">AI Infringement Case Updates: October 6, 2025</a>
+    <a href="https://www.saverilawfirm.com/our-cases/ai-artgenerators-copyright-litigation" class="article-link" target="_blank" rel="noopener noreferrer">AI Art Generator Copyright Litigation</a>
     <div class="article-meta">
-        <span class="article-source">www.mckoolsmith.com</span>
+        <span class="article-source">www.saverilawfirm.com</span>
     </div>
 </li>
 
