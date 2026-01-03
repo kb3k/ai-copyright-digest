@@ -50,7 +50,7 @@ A landmark class action lawsuit challenging Anthropic's use of copyrighted mater
 <summary><strong>Copyright defenses and their limits, Jurisdictional questions</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The legality of using books obtained from 'shadow libraries' like Library Genesis for AI training is a significant point of contention. While the authors claim this constitutes copyright infringement, the court's ruling on the legality of these sources remains unclear. <a href="#article-2" class="citation">[2]</a>, <a href="#article-19" class="citation">[19]</a></p>
+    <p>The legality of using books obtained from 'shadow libraries' like Library Genesis for AI training is a significant point of contention. While the authors claim this constitutes copyright infringement, the court's ruling may imply that as long as the copies were obtained legally, the use could be permissible. <a href="#article-2" class="citation">[2]</a>, <a href="#article-16" class="citation">[16]</a></p>
     
 </div>
 
@@ -60,7 +60,7 @@ A landmark class action lawsuit challenging Anthropic's use of copyrighted mater
 <summary><strong>Precedential implications, Economic/business model impacts on creators vs. AI companies</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The implications of the settlement for future AI development and copyright law are still being debated. The settlement may influence how AI companies approach data sourcing and copyright compliance, but the long-term effects on industry practices remain uncertain. <a href="#article-10" class="citation">[10]</a>, <a href="#article-19" class="citation">[19]</a></p>
+    <p>The implications of the settlement for future AI development and copyright law are still unclear. The settlement may influence how AI companies approach data sourcing and copyright compliance, but the long-term effects on industry practices remain to be seen. <a href="#article-4" class="citation">[4]</a>, <a href="#article-10" class="citation">[10]</a></p>
     
 </div>
 
@@ -70,7 +70,7 @@ A landmark class action lawsuit challenging Anthropic's use of copyrighted mater
 <summary><strong>Discovery/preservation obligations, Jurisdictional questions</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The scope of discovery and data retention obligations in cases involving AI training on copyrighted materials is still a developing area of law. The extent to which AI companies must disclose their data sources and the methods used for training remains a contentious issue. <a href="#article-5" class="citation">[5]</a>, <a href="#article-12" class="citation">[12]</a></p>
+    <p>The scope of discovery and data retention obligations in cases involving AI training on copyrighted materials is a complex issue. The court's decisions on what constitutes relevant data and how it should be preserved for future litigation are still evolving. <a href="#article-5" class="citation">[5]</a>, <a href="#article-12" class="citation">[12]</a></p>
     
 </div>
 
@@ -84,14 +84,14 @@ A landmark class action lawsuit challenging Anthropic's use of copyrighted mater
 <details class="outcome-details">
 <summary><strong>plaintiff (Bartz et al) wins</strong></summary>
 <div class="outcome-content">
-    If Bartz et al. win, the court's ruling could set a significant precedent for the transformative use doctrine in AI training. Judge Alsup initially found Anthropic's use of copyrighted works to be 'spectacularly' transformative, a view that is contested [6, 11]. A plaintiffs' victory could lead to damages exceeding the $1.5 billion settlement, as authors might seek higher compensation based on statutory maximums for copyright infringement [3, 19]. This outcome would impose stricter operational requirements on AI companies, necessitating clearer data sourcing and potentially new licensing agreements for copyrighted materials [10, 20]. It could also require AI developers to disclose training data sources more transparently, raising privacy and discovery obligations [5, 12]. However, questions remain about the uniform application of the transformative use standard across AI applications and the impact of commercial use on fair use defenses [1, 13].
+    If Bartz et al. win, the court's ruling could set a significant precedent for the transformative use doctrine in AI training. Judge Alsup's initial ruling that Anthropic's use was 'spectacularly' transformative [6, 11] would be challenged, potentially leading to a stricter interpretation of fair use that considers the resemblance of outputs to original works. This could impose substantial damages on Anthropic, possibly exceeding the $1.5 billion settlement already reached [3, 19]. The ruling may also require AI companies to adopt stricter data governance practices, including obtaining explicit licenses for copyrighted materials, increasing operational costs and impacting business models [10, 20]. Additionally, unresolved questions about the legality of using materials from shadow libraries like Library Genesis would remain critical, as the court's decision could clarify their permissibility under copyright law [2, 16]. This outcome would also raise concerns about fair compensation for authors, as the per-book payout of $3,000 may not reflect the true value of their works [3, 19].
 </div>
 </details>
 
 <details class="outcome-details">
 <summary><strong>defendant (Anthropic) wins</strong></summary>
 <div class="outcome-content">
-    Should Anthropic prevail, it would reinforce the argument that AI training constitutes transformative use under the fair use doctrine, potentially allowing AI companies to utilize copyrighted materials without explicit permission [6, 11]. This outcome could diminish authors' bargaining power, as it would set a precedent that AI companies can train models on copyrighted works, even those obtained from shadow libraries, without facing significant legal repercussions [2, 19]. The ruling may also lead to a reduced settlement amount, as the court could find that the authors' claims lack merit, thereby limiting damages and operational changes for Anthropic [3, 10]. However, unresolved legal questions would persist, such as the legality of using materials from shadow libraries and the implications for data sourcing compliance [1, 12]. Additionally, the commercial nature of AI outputs complicates the fair use analysis, leaving room for future litigation on this front [4, 13].
+    If Anthropic wins, it could affirm that AI training qualifies as transformative use under the fair use doctrine, as suggested by Judge Alsup [6, 11]. This would likely encourage AI companies to utilize copyrighted materials without permission, arguing their use is transformative. Such a ruling could shift power dynamics between content creators and AI developers, reducing authors' bargaining power and potentially devaluing their works [3, 19]. Additionally, unresolved legal issues regarding shadow libraries would remain, as the court may not clarify their legality [2, 16]. The implications for data governance in the AI industry could be significant, as companies might feel less pressure to establish strict licensing agreements, affecting creator compensation models [10, 20]. This outcome could also prompt increased scrutiny of AI training practices, raising ethical concerns about using copyrighted content without consent.
 </div>
 </details>
 
