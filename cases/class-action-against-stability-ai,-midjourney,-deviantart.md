@@ -7,6 +7,8 @@ last_updated: 2026-01-02
 
 <p class="back-link-top"><a href="../index.html">← Back to AI Docket</a></p>
 
+<h1 class="case-page-title">Class action against Stability AI, Midjourney, DeviantArt</h1>
+
 
 
 ## Summary
@@ -30,7 +32,7 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Copyright defenses and their limits, Precedential implications</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The core question is whether the use of artists' works to train AI models constitutes fair use under copyright law. Sources disagree on whether the outputs of AI can be considered transformative, with some arguing that they do not replicate the original works, while others contend that they do, undermining the fair use defense. <a href="#article-12" class="citation">[12]</a>, <a href="#article-14" class="citation">[14]</a>, <a href="#article-19" class="citation">[19]</a></p>
+    <p>The core question is whether the use of artists' works to train AI models constitutes fair use under copyright law. Some sources argue that the transformative nature of AI-generated outputs supports fair use, while others contend that the outputs can closely resemble the originals, undermining this defense. <a href="#article-12" class="citation">[12]</a>, <a href="#article-14" class="citation">[14]</a>, <a href="#article-19" class="citation">[19]</a></p>
     
 </div>
 
@@ -40,7 +42,17 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Copyright defenses and their limits, Related legal theories</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The lawsuit raises questions about the legality of using artists' works without consent for training AI models, specifically regarding DMCA violations and the right of publicity. The plaintiffs argue that the AI companies have violated these rights, while the defendants claim they have not infringed upon any legal protections. <a href="#article-12" class="citation">[12]</a>, <a href="#article-13" class="citation">[13]</a>, <a href="#article-16" class="citation">[16]</a></p>
+    <p>The plaintiffs allege direct and vicarious copyright infringement, but the defendants have moved to dismiss these claims, arguing that they do not meet the legal standards for infringement. The outcome of this motion will significantly impact the case's trajectory. <a href="#article-11" class="citation">[11]</a>, <a href="#article-19" class="citation">[19]</a>, <a href="#article-20" class="citation">[20]</a></p>
+    
+</div>
+
+</details>
+
+<details class="legal-issue unresolved">
+<summary><strong>Copyright defenses and their limits, Related legal theories</strong></summary>
+
+<div class="legal-issue-content">
+    <p>The legality of using user-generated content from platforms like DeviantArt for AI training raises questions about DMCA violations and the right of publicity. The plaintiffs argue that the companies did not obtain proper licenses for the use of their works. <a href="#article-12" class="citation">[12]</a>, <a href="#article-13" class="citation">[13]</a>, <a href="#article-16" class="citation">[16]</a></p>
     
 </div>
 
@@ -50,7 +62,7 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Economic/business model impacts on creators vs. AI companies</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The economic implications of the lawsuit for creators versus AI companies are significant, particularly regarding licensing requirements and creator compensation. The plaintiffs argue that the AI companies' business models undermine artists' livelihoods, while the defendants assert that their models do not infringe on artists' rights. <a href="#article-12" class="citation">[12]</a>, <a href="#article-14" class="citation">[14]</a>, <a href="#article-16" class="citation">[16]</a></p>
+    <p>The economic implications of the lawsuit could reshape the business models of AI companies, particularly regarding licensing requirements and creator compensation. The plaintiffs argue that the current model unfairly exploits artists' works without compensation. <a href="#article-12" class="citation">[12]</a>, <a href="#article-16" class="citation">[16]</a>, <a href="#article-20" class="citation">[20]</a></p>
     
 </div>
 
@@ -60,17 +72,7 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Jurisdictional questions</strong></summary>
 
 <div class="legal-issue-content">
-    <p>Jurisdictional questions arise regarding the applicability of international copyright law and the enforcement of U.S. laws against foreign entities involved in AI development. The plaintiffs argue for U.S. jurisdiction based on the companies' operations, while the defendants may challenge this based on their international presence. <a href="#article-12" class="citation">[12]</a>, <a href="#article-14" class="citation">[14]</a>, <a href="#article-19" class="citation">[19]</a></p>
-    
-</div>
-
-</details>
-
-<details class="legal-issue unresolved">
-<summary><strong>Precedential implications</strong></summary>
-
-<div class="legal-issue-content">
-    <p>The case has potential precedential implications for the AI industry, particularly regarding how copyright law will adapt to new technologies. The outcome could influence future litigation risks and regulatory responses to AI-generated content. <a href="#article-12" class="citation">[12]</a>, <a href="#article-14" class="citation">[14]</a>, <a href="#article-19" class="citation">[19]</a></p>
+    <p>Jurisdictional questions arise regarding the applicability of U.S. copyright law to international entities involved in the case. The defendants may argue that their operations in other jurisdictions complicate the enforcement of U.S. laws. <a href="#article-14" class="citation">[14]</a>, <a href="#article-19" class="citation">[19]</a></p>
     
 </div>
 
@@ -84,14 +86,14 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <details class="outcome-details">
 <summary><strong>Plaintiff (Plaintiff) wins</strong></summary>
 <div class="outcome-content">
-    If the plaintiffs win, the court may determine that using artists' works to train AI models does not qualify as fair use, particularly due to the commercial nature of AI outputs. This could result in damages potentially reaching billions, as artists seek compensation for unauthorized use [3, 7]. Such a ruling would require AI companies to obtain licenses for training data, fundamentally changing their business models [12, 14]. Additionally, it could set a precedent for copyright law regarding AI-generated content, impacting future litigation and regulations [19]. The unresolved question of whether AI training is transformative remains, with some arguing that AI outputs replicate original works, challenging fair use [2, 5]. This outcome may also raise jurisdictional issues in international copyright law, especially with foreign entities involved [12, 14]. Overall, a plaintiff win would strengthen creator rights but complicate AI operational practices and data sourcing compliance.
+    If the plaintiffs win, it would set a significant precedent on the use of copyrighted works for AI training, particularly regarding the transformative use doctrine. The court could rule that AI-generated outputs resembling original works do not qualify as transformative, undermining the defendants' fair use defense [12, 19]. This could lead to substantial damages for the defendants, potentially in the billions, as artists seek compensation for unauthorized use [3, 7]. Additionally, the ruling may impose new operational requirements on AI companies, necessitating stricter licensing agreements and clearer disclosures about training data sources [16, 20]. The economic implications could reshape the AI industry, increasing operational costs as companies allocate funds for creator compensation and compliance with copyright laws [12, 16]. However, unresolved questions remain about the application of fair use in commercial contexts and jurisdictional issues affecting enforcement against international entities [14, 19].
 </div>
 </details>
 
 <details class="outcome-details">
 <summary><strong>Defendant (Defendant) wins</strong></summary>
 <div class="outcome-content">
-    If the defendants win, the court may rule that using artists' works to train AI models qualifies as fair use, especially if the outputs are transformative. This could significantly weaken the plaintiffs' claims, potentially dismissing allegations like DMCA violations and right of publicity claims [4, 19]. Such a ruling would likely maintain the status quo for AI companies, allowing them to continue current training practices [12, 14]. However, it could worsen economic challenges for artists, diminishing their bargaining power and ability to monetize their works [16, 18]. The legal ambiguities surrounding transformative use and the commercial nature of AI outputs would remain contentious, with concerns that outputs may closely resemble original works, undermining the fair use defense [2, 5]. This outcome could also impact data governance and creator compensation in the AI industry.
+    Should the defendants prevail, it would reinforce the argument that AI training constitutes fair use, particularly if the court finds that the outputs are sufficiently transformative [11, 19]. This outcome could lead to a dismissal of the plaintiffs' claims, allowing AI companies to continue their current practices without significant operational changes. The ruling may also limit the scope of damages, potentially reducing the financial burden on defendants and allowing them to allocate resources towards further development rather than legal compliance [4, 19]. However, this would likely exacerbate the economic disparity between AI companies and content creators, as artists may continue to see their works exploited without compensation [12, 16]. The unresolved legal questions surrounding the definition of fair use in commercial contexts and the implications of DMCA violations would remain critical, as they could influence future litigation and regulatory frameworks [14, 19].
 </div>
 </details>
 

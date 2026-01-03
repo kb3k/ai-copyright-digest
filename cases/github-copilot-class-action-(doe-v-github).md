@@ -7,6 +7,8 @@ last_updated: 2026-01-02
 
 <p class="back-link-top"><a href="../index.html">← Back to AI Docket</a></p>
 
+<h1 class="case-page-title">GitHub Copilot class action (Doe v. GitHub)</h1>
+
 
 
 ## Summary
@@ -30,7 +32,7 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Copyright defenses and their limits, Precedential implications</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The core question is whether the use of publicly available source code to train AI models like GitHub Copilot constitutes fair use under copyright law. Sources disagree on whether the outputs of such models can be considered transformative or if they merely reproduce original works, which could undermine the fair use defense. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
+    <p>The core question is whether the use of publicly available source code to train AI models like GitHub Copilot constitutes fair use under copyright law. Sources disagree on whether the outputs of such models can be considered transformative, with some arguing that they do not reproduce original works, while others contend that they do, undermining the fair use defense. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
     
 </div>
 
@@ -40,17 +42,27 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Discovery/preservation obligations</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The lawsuit raises questions about the scope of discovery, particularly regarding GitHub's obligations to preserve and produce data related to the training of Copilot. The plaintiffs seek extensive data on the training datasets, which GitHub may argue is overly burdensome. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
+    <p>The lawsuit raises questions about the scope of discovery, particularly regarding GitHub's obligations to preserve and produce data related to the training of Copilot. There is uncertainty about what constitutes relevant data and how far GitHub must go in its data retention practices. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
     
 </div>
 
 </details>
 
 <details class="legal-issue unresolved">
-<summary><strong>Jurisdictional questions</strong></summary>
+<summary><strong>Privacy concerns</strong></summary>
 
 <div class="legal-issue-content">
-    <p>There are unresolved jurisdictional questions regarding the applicability of international copyright law and whether the case should be heard in California or another jurisdiction, given the global nature of software development and distribution. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
+    <p>Privacy concerns arise regarding the handling of user data and logs by GitHub Copilot, particularly in relation to compliance with international privacy laws such as GDPR and CCPA. The extent to which user data is protected and how it is used in training AI models remains a contentious issue. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
+    
+</div>
+
+</details>
+
+<details class="legal-issue unresolved">
+<summary><strong>Jurisdictional questions, Precedential implications</strong></summary>
+
+<div class="legal-issue-content">
+    <p>Jurisdictional questions are raised about the applicability of U.S. copyright law to international developers and the enforcement of any potential rulings across borders. The case could set precedents for how international copyright law is interpreted in the context of AI. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
     
 </div>
 
@@ -60,17 +72,7 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Economic/business model impacts on creators vs. AI companies</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The economic implications for software developers and AI companies are significant, particularly regarding how licensing requirements and compensation models will evolve. The plaintiffs argue that GitHub's practices undermine the economic viability of independent developers. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
-    
-</div>
-
-</details>
-
-<details class="legal-issue unresolved">
-<summary><strong>Precedential implications</strong></summary>
-
-<div class="legal-issue-content">
-    <p>The case may set important precedents regarding the use of AI in software development, particularly concerning the legal responsibilities of AI companies in relation to copyright infringement and the rights of original creators. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
+    <p>The economic implications for software developers and AI companies are significant, particularly regarding licensing requirements and creator compensation. The outcome of this case could reshape the business models of both creators and AI companies, affecting operational costs and market structures. <a href="#article-1" class="citation">[1]</a>, <a href="#article-2" class="citation">[2]</a></p>
     
 </div>
 
@@ -84,14 +86,14 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <details class="outcome-details">
 <summary><strong>Plaintiff (GitHub Copilot class action (Doe) wins</strong></summary>
 <div class="outcome-content">
-    If the plaintiffs win in Doe v. GitHub, it could set a significant precedent on using publicly available source code for AI training. The court may determine that GitHub Copilot's outputs are not transformative, weakening the fair use defense [1, 2]. This could result in substantial damages for GitHub, potentially in the billions, as it would need to compensate original creators for unauthorized code use [3, 7]. The court might also impose strict discovery obligations on GitHub, requiring detailed disclosures about training datasets, which could strain the company operationally and financially [1, 2]. This ruling could lead AI companies to reevaluate their data sourcing and licensing practices, impacting the industry by necessitating clearer compensation models for creators [1, 2]. However, questions remain about whether AI outputs can be considered transformative and how international copyright laws apply [1, 2].
+    If the plaintiffs win in Doe v. GitHub, it could set a significant precedent for the fair use of publicly available source code in AI training. The court's decision will likely focus on whether GitHub Copilot's outputs are transformative. Some argue that AI-generated code does not reproduce original works, supporting a fair use defense [1, 2]. Conversely, if the court finds that the outputs do reproduce original works, GitHub could face substantial damages, potentially in the billions, depending on the number of affected developers [3, 7]. This ruling could also impose strict discovery obligations on GitHub, reshaping data governance and compliance with privacy laws like GDPR and CCPA [1, 2]. Additionally, it may enhance creator compensation models, giving developers more leverage in licensing negotiations and altering the economic landscape for AI companies [1, 2].
 </div>
 </details>
 
 <details class="outcome-details">
 <summary><strong>Defendant (GitHub)) wins</strong></summary>
 <div class="outcome-content">
-    Should GitHub prevail in this case, it would likely reinforce the argument that using publicly available code for AI training constitutes fair use, particularly if the court finds the outputs sufficiently transformative [2, 4]. This outcome could shield GitHub from significant financial liability, allowing it to continue its operations without the burden of extensive damages [6, 8]. However, this victory may come at the cost of diminishing the bargaining power of individual developers, as it could set a precedent that undermines their ability to monetize their work effectively [2, 4]. The court's ruling might also limit the scope of discovery, reducing GitHub's obligations to disclose training data, which could have implications for data governance practices across the industry [1, 2]. Nevertheless, unresolved legal questions remain, such as the extent to which commercial use complicates the fair use analysis and how this case might influence future AI training practices [2, 4].
+    If GitHub wins in Doe v. GitHub, it would affirm that AI training on publicly available code may qualify as fair use, especially if the court deems the outputs transformative. This decision hinges on whether AI-generated outputs are considered reproductions of original works, with some arguing they are not [1, 2]. A favorable ruling for GitHub could limit damages, potentially saving the company billions and allowing it to maintain its current operations [3, 7]. However, it may weaken software developers' bargaining power and compensation prospects, as it could deter future licensing agreements [1, 2]. Furthermore, the ruling could raise concerns about data governance, as GitHub might not need to disclose extensive training data, affecting compliance with privacy laws like GDPR and CCPA [1, 2].
 </div>
 </details>
 

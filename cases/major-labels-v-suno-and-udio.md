@@ -7,6 +7,8 @@ last_updated: 2026-01-02
 
 <p class="back-link-top"><a href="../index.html">← Back to AI Docket</a></p>
 
+<h1 class="case-page-title">Major labels v. Suno and Udio</h1>
+
 
 
 ## Summary
@@ -30,7 +32,7 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Copyright defenses and their limits, Precedential implications</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The core question is whether the use of copyrighted songs to train AI models constitutes copyright infringement or falls under the fair use doctrine. The plaintiffs argue that the AI companies have engaged in piracy by using their music without permission, while the defendants claim that their use is transformative and thus protected. This remains a significant point of contention. <a href="#article-14" class="citation">[14]</a>, <a href="#article-17" class="citation">[17]</a>, <a href="#article-20" class="citation">[20]</a></p>
+    <p>The core question is whether the use of copyrighted songs to train AI models constitutes copyright infringement or falls under fair use. The major labels argue that the AI companies have copied hundreds of songs to create music that competes with human artists, while Suno and Udio claim their use is transformative. This dispute is central to the case, as it will determine the legality of AI training practices. <a href="#article-14" class="citation">[14]</a>, <a href="#article-17" class="citation">[17]</a>, <a href="#article-20" class="citation">[20]</a></p>
     
 </div>
 
@@ -40,7 +42,7 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Jurisdictional questions</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The lawsuits filed against Suno and Udio in different jurisdictions raise questions about jurisdictional authority and the applicability of international copyright law. The differing venues (Massachusetts for Suno and New York for Udio) could affect the legal strategies and outcomes. <a href="#article-20" class="citation">[20]</a>, <a href="#article-18" class="citation">[18]</a></p>
+    <p>The lawsuits filed against Suno and Udio in different jurisdictions raise questions about jurisdictional authority and the applicability of international copyright law. The major labels filed their case against Suno in Massachusetts and against Udio in New York, which may complicate enforcement and legal strategy. <a href="#article-20" class="citation">[20]</a>, <a href="#article-18" class="citation">[18]</a></p>
     
 </div>
 
@@ -50,17 +52,17 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Economic/business model impacts on creators vs. AI companies</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The economic implications of the lawsuits could reshape the business models of both AI companies and traditional music creators. The plaintiffs seek $150,000 in damages, which raises questions about the financial impact on AI companies and the potential for new licensing requirements for AI-generated music. <a href="#article-14" class="citation">[14]</a>, <a href="#article-15" class="citation">[15]</a></p>
+    <p>The economic implications of the lawsuits could reshape the business model for AI music generators. The major labels are seeking $150,000 in damages, which raises questions about how AI companies will need to adjust their licensing agreements and operational costs to comply with copyright laws. <a href="#article-14" class="citation">[14]</a>, <a href="#article-15" class="citation">[15]</a></p>
     
 </div>
 
 </details>
 
 <details class="legal-issue unresolved">
-<summary><strong>Discovery/preservation obligations</strong></summary>
+<summary><strong>Related legal theories</strong></summary>
 
 <div class="legal-issue-content">
-    <p>The preservation and discovery obligations related to the data used by Suno and Udio for training their AI models are under scrutiny. The extent to which these companies must disclose their training data and methodologies could impact the case's outcome. <a href="#article-18" class="citation">[18]</a>, <a href="#article-19" class="citation">[19]</a></p>
+    <p>The potential for tortious interference claims arises if it is determined that the AI companies' actions have unfairly disrupted the market for human artists. This could lead to further legal complications and claims from affected artists. <a href="#article-18" class="citation">[18]</a>, <a href="#article-19" class="citation">[19]</a></p>
     
 </div>
 
@@ -70,7 +72,7 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <summary><strong>Privacy concerns</strong></summary>
 
 <div class="legal-issue-content">
-    <p>Privacy concerns arise regarding user data and compliance with regulations such as GDPR and CCPA, especially if user-generated content is involved in the AI training process. The implications of these laws on the case are not fully explored. <a href="#article-19" class="citation">[19]</a>, <a href="#article-20" class="citation">[20]</a></p>
+    <p>Privacy concerns related to user data and compliance with regulations like GDPR and CCPA may arise if the AI companies are found to be mishandling user information in the process of generating music. <a href="#article-19" class="citation">[19]</a></p>
     
 </div>
 
@@ -84,14 +86,14 @@ This case involves 5 key legal issues related to AI copyright and training data 
 <details class="outcome-details">
 <summary><strong>Plaintiff (Major labels) wins</strong></summary>
 <div class="outcome-content">
-    If the plaintiffs (major labels) win, the court may determine that using copyrighted songs to train AI models constitutes copyright infringement rather than fair use, focusing on whether AI training is transformative use, a debated issue in legal circles [14, 20]. A ruling for the plaintiffs could result in substantial financial penalties, potentially reaching $150,000 per infringement, leading to billions in damages if multiple songs are involved [14, 17]. The court might also impose injunctions on Suno and Udio, requiring them to stop using copyrighted materials without licenses, which could reshape their operational models and introduce new licensing requirements for AI-generated music [19]. This ruling could set a precedent limiting AI companies' use of copyrighted works for training, affecting their business models and the broader AI landscape. Additionally, discovery obligations regarding training data could invite scrutiny of AI methodologies, raising privacy concerns under GDPR and CCPA [19, 20].
+    If major labels win, it could set a precedent classifying the use of copyrighted music for AI training as copyright infringement rather than fair use. This could lead to damages of $150,000 per infringement, totaling millions depending on the number of songs involved [14]. AI companies like Suno and Udio may need to secure licenses for training data, increasing costs and limiting competition with human artists [20]. Additionally, the ruling could prompt tortious interference claims from affected artists, as AI-generated music might undermine their market [18]. Key legal questions about transformative use and commercial fair use would remain unresolved, leaving ambiguity in how these concepts apply to AI training [17, 19]. This outcome could also impact data governance and compliance with international copyright laws in various jurisdictions [20].
 </div>
 </details>
 
 <details class="outcome-details">
 <summary><strong>Defendant (Suno et al) wins</strong></summary>
 <div class="outcome-content">
-    If defendants Suno and Udio prevail, the court may rule that their use of copyrighted songs for AI training qualifies as fair use, highlighting the transformative nature of their technology [16, 19]. This would address the legal question of whether AI-generated outputs are distinct enough from original works to be protected under fair use [14, 20]. A ruling in their favor could significantly impact the industry, allowing AI companies to use copyrighted materials without licensing, thus lowering costs and enhancing competitiveness against traditional music creators [19]. However, this may worsen economic challenges for artists and labels by diminishing their bargaining power and monetization opportunities [15, 19]. Additionally, the court's decision on discovery obligations might still require the defendants to disclose their training data, raising unresolved privacy concerns, especially regarding GDPR and CCPA compliance [19, 20].
+    If Suno and Udio win, it would mark a significant victory for AI companies, supporting the notion that using copyrighted music for training constitutes transformative fair use. This could transform the music industry, enabling AI-generated music to thrive without hefty licensing fees [19]. However, it may also concern human artists about the devaluation of their work and market disruption from an influx of AI-generated music [15]. The court's decision would leave questions about the boundaries of fair use, especially regarding the commercial nature of AI outputs and their transformative qualities [16]. Additionally, issues surrounding privacy and data governance would remain unclear, particularly if user data is mishandled during AI training [19]. This outcome could prompt a reevaluation of copyright law in relation to emerging technologies, potentially leading to new legal standards [20].
 </div>
 </details>
 
