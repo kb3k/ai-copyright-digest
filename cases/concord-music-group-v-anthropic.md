@@ -2,7 +2,7 @@
 layout: case
 title: Concord Music Group v. Anthropic
 case_name: Concord Music Group v. Anthropic
-last_updated: 2026-04-28
+last_updated: 2026-05-05
 ---
 
 <p class="back-link-top"><a href="../index.html">← Back to AI Docket</a></p>
@@ -15,7 +15,7 @@ last_updated: 2026-04-28
 
 This case involves 0 key legal issues related to AI copyright and training data usage.
 
-<p class="text-muted">Analysis Date: 2026-04-28</p>
+<p class="text-muted">Analysis Date: 2026-05-05</p>
 
 
 <div class="whats-next">
