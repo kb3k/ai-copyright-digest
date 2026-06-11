@@ -7,7 +7,7 @@ title: AI Copyright Docket
 
 **Tracking major AI copyright litigation**
 
-*Last Updated: June 09, 2026*
+*Last Updated: June 11, 2026*
 
 This case tracker monitors key U.S. litigation that raises copyright (and copyright adjacent) issues related to the creation and use of generative AI. These issues can have a significant impact across the AI value chain, from content creators to those providing datasets, models, or AI solutions, and further still to the downstream uses of AI solutions (and AI outputs).
 
@@ -28,7 +28,7 @@ This case tracker monitors key U.S. litigation that raises copyright (and copyri
     <div class="case-card-summary-content">
         <h3 class="case-card-title">NYT v OpenAI</h3>
         <div class="case-card-summary-meta">
-            <span class="case-card-date">Last analyzed: June 09, 2026</span>
+            <span class="case-card-date">Last analyzed: June 11, 2026</span>
             
         </div>
     </div>
@@ -106,7 +106,7 @@ This case tracker monitors key U.S. litigation that raises copyright (and copyri
     <div class="case-card-summary-content">
         <h3 class="case-card-title">Concord Music Group v. Anthropic</h3>
         <div class="case-card-summary-meta">
-            <span class="case-card-date">Last analyzed: June 09, 2026</span>
+            <span class="case-card-date">Last analyzed: June 11, 2026</span>
             
         </div>
     </div>
