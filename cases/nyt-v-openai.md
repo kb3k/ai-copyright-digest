@@ -2,7 +2,7 @@
 layout: case
 title: NYT v OpenAI
 case_name: NYT v OpenAI
-last_updated: 2026-06-11
+last_updated: 2026-07-21
 ---
 
 <p class="back-link-top"><a href="../index.html">← Back to AI Docket</a></p>
@@ -15,7 +15,7 @@ last_updated: 2026-06-11
 
 A high-stakes copyright infringement lawsuit where The New York Times alleges OpenAI and Microsoft used millions of its articles to train ChatGPT without permission. The case involves complex discovery disputes over user data and ChatGPT logs, privacy concerns, and fundamental questions about fair use in AI training. Billions in damages are at stake.
 
-<p class="text-muted">Analysis Date: 2026-06-11</p>
+<p class="text-muted">Analysis Date: 2026-07-21</p>
 
 
 <div class="whats-next">
